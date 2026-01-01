@@ -1,0 +1,1951 @@
+ParentLocationCode,ParentLocation,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,FactValueNumeric
+AFR,Africa,KEN,Kenya,Year,2019,True,10.01
+AMR,Americas,TTO,Trinidad and Tobago,Year,2019,True,10.02
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2019,True,10.06
+AMR,Americas,GRD,Grenada,Year,2019,True,10.08
+AMR,Americas,BRA,Brazil,Year,2019,True,10.09
+EUR,Europe,DNK,Denmark,Year,2019,True,10.12
+EUR,Europe,RUS,Russian Federation,Year,2019,True,10.19
+EUR,Europe,ESP,Spain,Year,2019,True,10.19
+EUR,Europe,FRA,France,Year,2019,True,10.27
+AMR,Americas,GUY,Guyana,Year,2019,True,10.33
+EUR,Europe,AUT,Austria,Year,2019,True,10.34
+EUR,Europe,LTU,Lithuania,Year,2019,True,10.37
+AMR,Americas,HTI,Haiti,Year,2019,True,10.38
+AMR,Americas,BLZ,Belize,Year,2019,True,10.44
+AFR,Africa,MUS,Mauritius,Year,2019,True,10.48
+EUR,Europe,NLD,Netherlands (Kingdom of the),Year,2019,True,10.5
+WPR,Western Pacific,JPN,Japan,Year,2019,True,10.51
+EUR,Europe,DEU,Germany,Year,2019,True,10.55
+AFR,Africa,NAM,Namibia,Year,2019,True,10.81
+AMR,Americas,CUB,Cuba,Year,2019,True,10.86
+AMR,Americas,SUR,Suriname,Year,2019,True,10.89
+AMR,Americas,ARG,Argentina,Year,2019,True,11.07
+EUR,Europe,BEL,Belgium,Year,2019,True,11.08
+AMR,Americas,PRY,Paraguay,Year,2019,True,11.46
+EUR,Europe,LVA,Latvia,Year,2019,True,11.55
+AMR,Americas,PAN,Panama,Year,2019,True,11.6
+EUR,Europe,MDA,Republic of Moldova,Year,2019,True,12.06
+EUR,Europe,UKR,Ukraine,Year,2019,True,12.15
+EUR,Europe,MLT,Malta,Year,2019,True,12.21
+EUR,Europe,ROU,Romania,Year,2019,True,12.23
+EUR,Europe,ITA,Italy,Year,2019,True,12.26
+AFR,Africa,ZWE,Zimbabwe,Year,2019,True,12.34
+SEAR,South-East Asia,MDV,Maldives,Year,2019,True,12.34
+AFR,Africa,BWA,Botswana,Year,2019,True,12.51
+EUR,Europe,GRC,Greece,Year,2019,True,12.7
+EMR,Eastern Mediterranean,MAR,Morocco,Year,2019,True,12.8
+EUR,Europe,CYP,Cyprus,Year,2019,True,13.01
+AMR,Americas,COL,Colombia,Year,2019,True,13.14
+WPR,Western Pacific,SGP,Singapore,Year,2019,True,13.33
+EUR,Europe,BLR,Belarus,Year,2019,True,13.41
+EUR,Europe,SVN,Slovenia,Year,2019,True,13.44
+EUR,Europe,HUN,Hungary,Year,2019,True,13.45
+EMR,Eastern Mediterranean,SOM,Somalia,Year,2019,True,13.53
+EUR,Europe,CZE,Czechia,Year,2019,True,13.56
+AMR,Americas,JAM,Jamaica,Year,2019,True,13.75
+AMR,Americas,CRI,Costa Rica,Year,2019,True,13.87
+AFR,Africa,COM,Comoros,Year,2019,True,14.02
+AFR,Africa,ZAF,South Africa,Year,2019,True,14.21
+AFR,Africa,TZA,United Republic of Tanzania,Year,2019,True,14.47
+AFR,Africa,MDG,Madagascar,Year,2019,True,14.73
+AFR,Africa,SWZ,Eswatini,Year,2019,True,14.77
+EUR,Europe,HRV,Croatia,Year,2019,True,15.09
+AMR,Americas,MEX,Mexico,Year,2019,True,15.31
+AMR,Americas,NIC,Nicaragua,Year,2019,True,15.46
+EUR,Europe,SVK,Slovakia,Year,2019,True,15.5
+EUR,Europe,ALB,Albania,Year,2019,True,15.65
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),Year,2019,True,15.93
+AFR,Africa,MOZ,Mozambique,Year,2019,True,15.99
+AFR,Africa,ZMB,Zambia,Year,2019,True,16.1
+AMR,Americas,ECU,Ecuador,Year,2019,True,16.14
+AFR,Africa,SYC,Seychelles,Year,2019,True,16.3
+EUR,Europe,BGR,Bulgaria,Year,2019,True,16.52
+WPR,Western Pacific,MYS,Malaysia,Year,2019,True,16.71
+SEAR,South-East Asia,BTN,Bhutan,Year,2019,True,16.91
+EUR,Europe,GEO,Georgia,Year,2019,True,16.93
+AFR,Africa,LSO,Lesotho,Year,2019,True,17.03
+WPR,Western Pacific,KHM,Cambodia,Year,2019,True,17.3
+EUR,Europe,POL,Poland,Year,2019,True,17.36
+WPR,Western Pacific,VNM,Viet Nam,Year,2019,True,17.67
+WPR,Western Pacific,IDN,Indonesia,Year,2019,True,17.74
+EUR,Europe,ISR,Israel,Year,2019,True,17.79
+EUR,Europe,MNE,Montenegro,Year,2019,True,17.89
+AFR,Africa,MWI,Malawi,Year,2019,True,18.18
+AMR,Americas,HND,Honduras,Year,2019,True,18.59
+EMR,Eastern Mediterranean,DJI,Djibouti,Year,2019,True,18.62
+AMR,Americas,CHL,Chile,Year,2019,True,18.82
+AMR,Americas,GTM,Guatemala,Year,2019,True,19.19
+SEAR,South-East Asia,TLS,Timor-Leste,Year,2019,True,19.79
+WPR,Western Pacific,PHL,Philippines,Year,2019,True,19.82
+AFR,Africa,SSD,South Sudan,Year,2019,True,20.11
+AMR,Americas,SLV,El Salvador,Year,2019,True,20.42
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,Year,2019,True,20.54
+AFR,Africa,ETH,Ethiopia,Year,2019,True,20.87
+EUR,Europe,SRB,Serbia,Year,2019,True,20.87
+EMR,Eastern Mediterranean,SDN,Sudan,Year,2019,True,21.0
+AFR,Africa,DZA,Algeria,Year,2019,True,21.74
+WPR,Western Pacific,KOR,Republic of Korea,Year,2019,True,21.95
+AFR,Africa,ERI,Eritrea,Year,2019,True,22.48
+AFR,Africa,GAB,Gabon,Year,2019,True,22.76
+EMR,Eastern Mediterranean,LBN,Lebanon,Year,2019,True,22.79
+SEAR,South-East Asia,LKA,Sri Lanka,Year,2019,True,22.95
+EUR,Europe,TUR,Türkiye,Year,2019,True,23.14
+EUR,Europe,MKD,North Macedonia,Year,2019,True,23.17
+AFR,Africa,COG,Congo,Year,2019,True,23.22
+AFR,Africa,AGO,Angola,Year,2019,True,23.35
+EUR,Europe,AZE,Azerbaijan,Year,2019,True,23.43
+EUR,Europe,KAZ,Kazakhstan,Year,2019,True,23.7
+SEAR,South-East Asia,THA,Thailand,Year,2019,True,23.86
+EUR,Europe,BIH,Bosnia and Herzegovina,Year,2019,True,23.9
+EMR,Eastern Mediterranean,SYR,Syrian Arab Republic,Year,2019,True,24.07
+AMR,Americas,BOL,Bolivia (Plurinational State of),Year,2019,True,24.55
+EMR,Eastern Mediterranean,JOR,Jordan,Year,2019,True,24.73
+EMR,Eastern Mediterranean,TUN,Tunisia,Year,2019,True,24.81
+AFR,Africa,GNQ,Equatorial Guinea,Year,2019,True,25.44
+AFR,Africa,CAF,Central African Republic,Year,2019,True,25.46
+EUR,Europe,TKM,Turkmenistan,Year,2019,True,26.02
+AMR,Americas,PER,Peru,Year,2019,True,26.07
+AFR,Africa,BDI,Burundi,Year,2019,True,26.31
+SEAR,South-East Asia,MMR,Myanmar,Year,2019,True,26.89
+AFR,Africa,CPV,Cabo Verde,Year,2019,True,27.36
+EMR,Eastern Mediterranean,LBY,Libya,Year,2019,True,28.11
+EUR,Europe,ARM,Armenia,Year,2019,True,28.41
+EMR,Eastern Mediterranean,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2019,True,28.5
+AFR,Africa,STP,Sao Tome and Principe,Year,2019,True,29.01
+AFR,Africa,COD,Democratic Republic of the Congo,Year,2019,True,29.13
+AFR,Africa,UGA,Uganda,Year,2019,True,29.45
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),Year,2019,True,30.69
+AFR,Africa,BEN,Benin,Year,2019,True,30.8
+WPR,Western Pacific,CHN,China,Year,2019,True,31.13
+AFR,Africa,GNB,Guinea-Bissau,Year,2019,True,31.47
+AFR,Africa,LBR,Liberia,Year,2019,True,32.5
+AFR,Africa,TGO,Togo,Year,2019,True,33.66
+AFR,Africa,GIN,Guinea,Year,2019,True,34.17
+EMR,Eastern Mediterranean,OMN,Oman,Year,2019,True,34.4
+AFR,Africa,GMB,Gambia,Year,2019,True,34.42
+AFR,Africa,MLI,Mali,Year,2019,True,34.75
+WPR,Western Pacific,MNG,Mongolia,Year,2019,True,35.04
+AFR,Africa,MRT,Mauritania,Year,2019,True,35.07
+AFR,Africa,RWA,Rwanda,Year,2019,True,35.25
+AFR,Africa,SEN,Senegal,Year,2019,True,35.53
+SEAR,South-East Asia,NPL,Nepal,Year,2019,True,35.68
+AFR,Africa,CIV,Cote d'Ivoire,Year,2019,True,36.04
+EUR,Europe,KGZ,Kyrgyzstan,Year,2019,True,36.19
+AFR,Africa,SLE,Sierra Leone,Year,2019,True,36.64
+EMR,Eastern Mediterranean,IRQ,Iraq,Year,2019,True,36.96
+SEAR,South-East Asia,BGD,Bangladesh,Year,2019,True,37.98
+AFR,Africa,BFA,Burkina Faso,Year,2019,True,38.0
+EUR,Europe,UZB,Uzbekistan,Year,2019,True,38.19
+AFR,Africa,TCD,Chad,Year,2019,True,38.74
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,Year,2019,True,38.93
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,Year,2019,True,39.57
+AMR,Americas,BHS,Bahamas,Year,2019,True,4.86
+EMR,Eastern Mediterranean,YEM,Yemen,Year,2019,True,40.25
+AFR,Africa,GHA,Ghana,Year,2019,True,40.58
+SEAR,South-East Asia,IND,India,Year,2019,True,45.63
+EMR,Eastern Mediterranean,EGY,Egypt,Year,2019,True,46.73
+EMR,Eastern Mediterranean,PAK,Pakistan,Year,2019,True,48.52
+AFR,Africa,NER,Niger,Year,2019,True,48.67
+EUR,Europe,FIN,Finland,Year,2019,True,5.06
+AMR,Americas,CAN,Canada,Year,2019,True,5.2
+EUR,Europe,SWE,Sweden,Year,2019,True,5.33
+WPR,Western Pacific,NRU,Nauru,Year,2019,True,5.47
+EUR,Europe,ISL,Iceland,Year,2019,True,5.56
+EUR,Europe,EST,Estonia,Year,2019,True,5.79
+EUR,Europe,NOR,Norway,Year,2019,True,5.83
+EUR,Europe,TJK,Tajikistan,Year,2019,True,50.58
+EMR,Eastern Mediterranean,BHR,Bahrain,Year,2019,True,51.38
+EMR,Eastern Mediterranean,QAT,Qatar,Year,2019,True,53.16
+AFR,Africa,CMR,Cameroon,Year,2019,True,53.31
+AFR,Africa,NGA,Nigeria,Year,2019,True,54.56
+EMR,Eastern Mediterranean,KWT,Kuwait,Year,2019,True,54.93
+EMR,Eastern Mediterranean,AFG,Afghanistan,Year,2019,True,56.0
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,Year,2019,True,56.22
+AMR,Americas,USA,United States of America,Year,2019,True,6.42
+EUR,Europe,PRT,Portugal,Year,2019,True,6.58
+WPR,Western Pacific,BRN,Brunei Darussalam,Year,2019,True,6.73
+WPR,Western Pacific,NIU,Niue,Year,2019,True,6.74
+WPR,Western Pacific,TUV,Tuvalu,Year,2019,True,6.81
+WPR,Western Pacific,MHL,Marshall Islands,Year,2019,True,7.07
+AMR,Americas,DOM,Dominican Republic,Year,2019,True,7.1
+WPR,Western Pacific,KIR,Kiribati,Year,2019,True,7.18
+WPR,Western Pacific,FJI,Fiji,Year,2019,True,7.23
+WPR,Western Pacific,TON,Tonga,Year,2019,True,7.39
+EUR,Europe,IRL,Ireland,Year,2019,True,7.5
+WPR,Western Pacific,WSM,Samoa,Year,2019,True,7.54
+AMR,Americas,KNA,Saint Kitts and Nevis,Year,2019,True,7.62
+WPR,Western Pacific,SLB,Solomon Islands,Year,2019,True,7.64
+WPR,Western Pacific,FSM,Micronesia (Federated States of),Year,2019,True,7.71
+WPR,Western Pacific,COK,Cook Islands,Year,2019,True,7.77
+EUR,Europe,CHE,Switzerland,Year,2019,True,7.79
+WPR,Western Pacific,PLW,Palau,Year,2019,True,7.81
+AMR,Americas,DMA,Dominica,Year,2019,True,7.87
+WPR,Western Pacific,AUS,Australia,Year,2019,True,7.94
+EUR,Europe,AND,Andorra,Year,2019,True,7.96
+WPR,Western Pacific,VUT,Vanuatu,Year,2019,True,8.12
+AMR,Americas,ATG,Antigua and Barbuda,Year,2019,True,8.12
+AMR,Americas,URY,Uruguay,Year,2019,True,8.24
+WPR,Western Pacific,NZL,New Zealand,Year,2019,True,8.31
+EUR,Europe,LUX,Luxembourg,Year,2019,True,8.43
+WPR,Western Pacific,PNG,Papua New Guinea,Year,2019,True,8.78
+AMR,Americas,VCT,Saint Vincent and the Grenadines,Year,2019,True,8.88
+AMR,Americas,LCA,Saint Lucia,Year,2019,True,8.94
+AMR,Americas,BRB,Barbados,Year,2019,True,9.19
+EUR,Europe,MCO,Monaco,Year,2019,True,9.21
+EUR,Europe,SMR,San Marino,Year,2019,True,9.85
+EUR,Europe,CHE,Switzerland,Year,2018,False,10.01
+AFR,Africa,KEN,Kenya,Year,2018,False,10.02
+EUR,Europe,DNK,Denmark,Year,2018,False,10.02
+AMR,Americas,VCT,Saint Vincent and the Grenadines,Year,2018,False,10.04
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2018,False,10.07
+EUR,Europe,LTU,Lithuania,Year,2018,False,10.08
+EUR,Europe,ESP,Spain,Year,2018,False,10.08
+EUR,Europe,LUX,Luxembourg,Year,2018,False,10.09
+AMR,Americas,HTI,Haiti,Year,2018,False,10.23
+AMR,Americas,BRA,Brazil,Year,2018,False,10.25
+EUR,Europe,RUS,Russian Federation,Year,2018,False,10.27
+EUR,Europe,LVA,Latvia,Year,2018,False,10.28
+AMR,Americas,GRD,Grenada,Year,2018,False,10.31
+AMR,Americas,BRB,Barbados,Year,2018,False,10.36
+AFR,Africa,MUS,Mauritius,Year,2018,False,10.45
+AMR,Americas,TTO,Trinidad and Tobago,Year,2018,False,10.47
+WPR,Western Pacific,JPN,Japan,Year,2018,False,10.52
+EUR,Europe,DEU,Germany,Year,2018,False,10.62
+EUR,Europe,NLD,Netherlands (Kingdom of the),Year,2018,False,10.66
+AMR,Americas,GUY,Guyana,Year,2018,False,10.72
+EUR,Europe,BEL,Belgium,Year,2018,False,10.73
+EUR,Europe,SMR,San Marino,Year,2018,False,10.81
+AMR,Americas,BLZ,Belize,Year,2018,False,10.86
+AFR,Africa,NAM,Namibia,Year,2018,False,10.92
+EUR,Europe,FRA,France,Year,2018,False,11.02
+AMR,Americas,PRY,Paraguay,Year,2018,False,11.2
+AMR,Americas,SUR,Suriname,Year,2018,False,11.38
+EUR,Europe,AUT,Austria,Year,2018,False,11.42
+AMR,Americas,ARG,Argentina,Year,2018,False,11.58
+AMR,Americas,CUB,Cuba,Year,2018,False,11.61
+SEAR,South-East Asia,MDV,Maldives,Year,2018,False,11.91
+AMR,Americas,PAN,Panama,Year,2018,False,12.14
+AFR,Africa,ZWE,Zimbabwe,Year,2018,False,12.4
+AFR,Africa,BWA,Botswana,Year,2018,False,12.62
+EUR,Europe,UKR,Ukraine,Year,2018,False,12.83
+EUR,Europe,MDA,Republic of Moldova,Year,2018,False,12.97
+EMR,Eastern Mediterranean,MAR,Morocco,Year,2018,False,13.0
+EUR,Europe,MLT,Malta,Year,2018,False,13.02
+WPR,Western Pacific,SGP,Singapore,Year,2018,False,13.12
+EMR,Eastern Mediterranean,SOM,Somalia,Year,2018,False,13.66
+EUR,Europe,GRC,Greece,Year,2018,False,13.73
+AMR,Americas,COL,Colombia,Year,2018,False,13.76
+EUR,Europe,CYP,Cyprus,Year,2018,False,13.77
+EUR,Europe,ITA,Italy,Year,2018,False,13.82
+EUR,Europe,BLR,Belarus,Year,2018,False,13.93
+AFR,Africa,COM,Comoros,Year,2018,False,14.08
+AFR,Africa,ZAF,South Africa,Year,2018,False,14.22
+EUR,Europe,ROU,Romania,Year,2018,False,14.45
+AFR,Africa,TZA,United Republic of Tanzania,Year,2018,False,14.52
+AMR,Americas,JAM,Jamaica,Year,2018,False,14.56
+AFR,Africa,SWZ,Eswatini,Year,2018,False,14.66
+AMR,Americas,CRI,Costa Rica,Year,2018,False,14.77
+AFR,Africa,MDG,Madagascar,Year,2018,False,14.86
+AFR,Africa,SYC,Seychelles,Year,2018,False,15.84
+WPR,Western Pacific,MYS,Malaysia,Year,2018,False,15.95
+AMR,Americas,ECU,Ecuador,Year,2018,False,15.98
+AMR,Americas,MEX,Mexico,Year,2018,False,16.03
+AFR,Africa,ZMB,Zambia,Year,2018,False,16.19
+AFR,Africa,MOZ,Mozambique,Year,2018,False,16.23
+EUR,Europe,HUN,Hungary,Year,2018,False,16.31
+EUR,Europe,CZE,Czechia,Year,2018,False,16.57
+AMR,Americas,NIC,Nicaragua,Year,2018,False,16.62
+WPR,Western Pacific,KHM,Cambodia,Year,2018,False,16.69
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),Year,2018,False,16.72
+EUR,Europe,SVN,Slovenia,Year,2018,False,16.94
+WPR,Western Pacific,VNM,Viet Nam,Year,2018,False,16.97
+WPR,Western Pacific,IDN,Indonesia,Year,2018,False,17.0
+AFR,Africa,LSO,Lesotho,Year,2018,False,17.2
+AFR,Africa,MWI,Malawi,Year,2018,False,18.21
+EUR,Europe,GEO,Georgia,Year,2018,False,18.34
+EUR,Europe,ISR,Israel,Year,2018,False,18.44
+SEAR,South-East Asia,BTN,Bhutan,Year,2018,False,18.52
+EUR,Europe,SVK,Slovakia,Year,2018,False,18.6
+EUR,Europe,HRV,Croatia,Year,2018,False,18.73
+EMR,Eastern Mediterranean,DJI,Djibouti,Year,2018,False,18.99
+SEAR,South-East Asia,TLS,Timor-Leste,Year,2018,False,19.0
+WPR,Western Pacific,PHL,Philippines,Year,2018,False,19.03
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,Year,2018,False,19.07
+EUR,Europe,ALB,Albania,Year,2018,False,19.07
+EUR,Europe,BGR,Bulgaria,Year,2018,False,19.48
+AMR,Americas,HND,Honduras,Year,2018,False,19.66
+AMR,Americas,CHL,Chile,Year,2018,False,19.7
+AMR,Americas,GTM,Guatemala,Year,2018,False,20.04
+EUR,Europe,POL,Poland,Year,2018,False,20.71
+AFR,Africa,ETH,Ethiopia,Year,2018,False,21.31
+EMR,Eastern Mediterranean,SDN,Sudan,Year,2018,False,21.44
+AMR,Americas,SLV,El Salvador,Year,2018,False,21.61
+EUR,Europe,MNE,Montenegro,Year,2018,False,21.62
+WPR,Western Pacific,KOR,Republic of Korea,Year,2018,False,21.65
+AFR,Africa,DZA,Algeria,Year,2018,False,21.72
+AFR,Africa,SSD,South Sudan,Year,2018,False,21.86
+SEAR,South-East Asia,LKA,Sri Lanka,Year,2018,False,22.25
+AFR,Africa,AGO,Angola,Year,2018,False,22.37
+EMR,Eastern Mediterranean,LBN,Lebanon,Year,2018,False,22.68
+AFR,Africa,ERI,Eritrea,Year,2018,False,22.77
+AFR,Africa,GAB,Gabon,Year,2018,False,22.79
+SEAR,South-East Asia,THA,Thailand,Year,2018,False,22.9
+AFR,Africa,COG,Congo,Year,2018,False,23.11
+EUR,Europe,TUR,Türkiye,Year,2018,False,23.22
+AMR,Americas,BOL,Bolivia (Plurinational State of),Year,2018,False,23.94
+EMR,Eastern Mediterranean,SYR,Syrian Arab Republic,Year,2018,False,24.02
+EMR,Eastern Mediterranean,JOR,Jordan,Year,2018,False,24.68
+EUR,Europe,SRB,Serbia,Year,2018,False,24.88
+EUR,Europe,KAZ,Kazakhstan,Year,2018,False,25.42
+EMR,Eastern Mediterranean,TUN,Tunisia,Year,2018,False,25.54
+EUR,Europe,AZE,Azerbaijan,Year,2018,False,25.56
+SEAR,South-East Asia,MMR,Myanmar,Year,2018,False,25.75
+AMR,Americas,PER,Peru,Year,2018,False,25.82
+AFR,Africa,GNQ,Equatorial Guinea,Year,2018,False,26.06
+AFR,Africa,BDI,Burundi,Year,2018,False,26.32
+AFR,Africa,CAF,Central African Republic,Year,2018,False,26.41
+AFR,Africa,CPV,Cabo Verde,Year,2018,False,27.39
+EUR,Europe,MKD,North Macedonia,Year,2018,False,27.74
+EMR,Eastern Mediterranean,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2018,False,28.25
+EMR,Eastern Mediterranean,LBY,Libya,Year,2018,False,28.64
+EUR,Europe,TKM,Turkmenistan,Year,2018,False,28.68
+AFR,Africa,COD,Democratic Republic of the Congo,Year,2018,False,29.02
+EUR,Europe,BIH,Bosnia and Herzegovina,Year,2018,False,29.25
+AFR,Africa,STP,Sao Tome and Principe,Year,2018,False,29.46
+AFR,Africa,UGA,Uganda,Year,2018,False,29.97
+EUR,Europe,ARM,Armenia,Year,2018,False,30.9
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),Year,2018,False,31.44
+AFR,Africa,BEN,Benin,Year,2018,False,31.53
+AFR,Africa,LBR,Liberia,Year,2018,False,32.1
+AFR,Africa,GNB,Guinea-Bissau,Year,2018,False,32.52
+WPR,Western Pacific,CHN,China,Year,2018,False,33.22
+AFR,Africa,GIN,Guinea,Year,2018,False,34.48
+AFR,Africa,RWA,Rwanda,Year,2018,False,34.57
+AFR,Africa,TGO,Togo,Year,2018,False,34.88
+AFR,Africa,GMB,Gambia,Year,2018,False,35.26
+AFR,Africa,MRT,Mauritania,Year,2018,False,35.89
+AFR,Africa,MLI,Mali,Year,2018,False,36.01
+EMR,Eastern Mediterranean,OMN,Oman,Year,2018,False,36.06
+AFR,Africa,SEN,Senegal,Year,2018,False,36.46
+AFR,Africa,SLE,Sierra Leone,Year,2018,False,36.49
+AFR,Africa,CIV,Cote d'Ivoire,Year,2018,False,37.51
+WPR,Western Pacific,MNG,Mongolia,Year,2018,False,37.61
+EMR,Eastern Mediterranean,IRQ,Iraq,Year,2018,False,37.67
+AFR,Africa,BFA,Burkina Faso,Year,2018,False,39.1
+SEAR,South-East Asia,NPL,Nepal,Year,2018,False,39.21
+EUR,Europe,KGZ,Kyrgyzstan,Year,2018,False,39.46
+AFR,Africa,TCD,Chad,Year,2018,False,40.17
+EMR,Eastern Mediterranean,YEM,Yemen,Year,2018,False,40.18
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,Year,2018,False,40.3
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,Year,2018,False,41.55
+EUR,Europe,UZB,Uzbekistan,Year,2018,False,41.63
+SEAR,South-East Asia,BGD,Bangladesh,Year,2018,False,41.83
+AFR,Africa,GHA,Ghana,Year,2018,False,42.42
+EMR,Eastern Mediterranean,EGY,Egypt,Year,2018,False,46.17
+AFR,Africa,NER,Niger,Year,2018,False,49.23
+EUR,Europe,FIN,Finland,Year,2018,False,5.13
+AMR,Americas,BHS,Bahamas,Year,2018,False,5.27
+EUR,Europe,SWE,Sweden,Year,2018,False,5.44
+WPR,Western Pacific,NRU,Nauru,Year,2018,False,5.62
+EUR,Europe,ISL,Iceland,Year,2018,False,5.66
+AMR,Americas,CAN,Canada,Year,2018,False,5.81
+EUR,Europe,NOR,Norway,Year,2018,False,5.84
+SEAR,South-East Asia,IND,India,Year,2018,False,50.54
+EMR,Eastern Mediterranean,BHR,Bahrain,Year,2018,False,54.04
+EMR,Eastern Mediterranean,PAK,Pakistan,Year,2018,False,54.82
+AFR,Africa,CMR,Cameroon,Year,2018,False,54.86
+AFR,Africa,NGA,Nigeria,Year,2018,False,55.13
+EUR,Europe,TJK,Tajikistan,Year,2018,False,55.18
+EMR,Eastern Mediterranean,QAT,Qatar,Year,2018,False,55.99
+EMR,Eastern Mediterranean,KWT,Kuwait,Year,2018,False,56.59
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,Year,2018,False,57.17
+EUR,Europe,EST,Estonia,Year,2018,False,6.12
+WPR,Western Pacific,AUS,Australia,Year,2018,False,6.4
+WPR,Western Pacific,BRN,Brunei Darussalam,Year,2018,False,6.54
+WPR,Western Pacific,NIU,Niue,Year,2018,False,6.73
+WPR,Western Pacific,TUV,Tuvalu,Year,2018,False,6.94
+WPR,Western Pacific,MHL,Marshall Islands,Year,2018,False,6.99
+EMR,Eastern Mediterranean,AFG,Afghanistan,Year,2018,False,63.5
+EUR,Europe,PRT,Portugal,Year,2018,False,7.08
+WPR,Western Pacific,NZL,New Zealand,Year,2018,False,7.15
+AMR,Americas,USA,United States of America,Year,2018,False,7.17
+WPR,Western Pacific,KIR,Kiribati,Year,2018,False,7.25
+WPR,Western Pacific,TON,Tonga,Year,2018,False,7.34
+WPR,Western Pacific,FJI,Fiji,Year,2018,False,7.38
+AMR,Americas,DOM,Dominican Republic,Year,2018,False,7.51
+WPR,Western Pacific,WSM,Samoa,Year,2018,False,7.55
+WPR,Western Pacific,FSM,Micronesia (Federated States of),Year,2018,False,7.56
+EUR,Europe,IRL,Ireland,Year,2018,False,7.61
+WPR,Western Pacific,COK,Cook Islands,Year,2018,False,7.74
+WPR,Western Pacific,SLB,Solomon Islands,Year,2018,False,7.75
+WPR,Western Pacific,PLW,Palau,Year,2018,False,7.76
+AMR,Americas,KNA,Saint Kitts and Nevis,Year,2018,False,8.14
+AMR,Americas,DMA,Dominica,Year,2018,False,8.38
+AMR,Americas,URY,Uruguay,Year,2018,False,8.57
+WPR,Western Pacific,VUT,Vanuatu,Year,2018,False,8.58
+EUR,Europe,AND,Andorra,Year,2018,False,8.59
+AMR,Americas,ATG,Antigua and Barbuda,Year,2018,False,8.68
+WPR,Western Pacific,PNG,Papua New Guinea,Year,2018,False,8.8
+AMR,Americas,LCA,Saint Lucia,Year,2018,False,9.47
+EUR,Europe,MCO,Monaco,Year,2018,False,9.88
+AMR,Americas,LCA,Saint Lucia,Year,2017,False,10.03
+AFR,Africa,KEN,Kenya,Year,2017,False,10.04
+EUR,Europe,LUX,Luxembourg,Year,2017,False,10.05
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2017,False,10.09
+EUR,Europe,CHE,Switzerland,Year,2017,False,10.2
+EUR,Europe,ESP,Spain,Year,2017,False,10.21
+AMR,Americas,BRB,Barbados,Year,2017,False,10.24
+AMR,Americas,HTI,Haiti,Year,2017,False,10.25
+AFR,Africa,MUS,Mauritius,Year,2017,False,10.35
+EUR,Europe,DNK,Denmark,Year,2017,False,10.43
+AMR,Americas,VCT,Saint Vincent and the Grenadines,Year,2017,False,10.5
+EUR,Europe,SMR,San Marino,Year,2017,False,10.55
+WPR,Western Pacific,SGP,Singapore,Year,2017,False,10.61
+EUR,Europe,DEU,Germany,Year,2017,False,10.63
+WPR,Western Pacific,JPN,Japan,Year,2017,False,10.68
+EUR,Europe,NLD,Netherlands (Kingdom of the),Year,2017,False,10.79
+EUR,Europe,BEL,Belgium,Year,2017,False,10.85
+AMR,Americas,GRD,Grenada,Year,2017,False,10.87
+EUR,Europe,LTU,Lithuania,Year,2017,False,10.98
+EUR,Europe,LVA,Latvia,Year,2017,False,10.99
+AMR,Americas,TTO,Trinidad and Tobago,Year,2017,False,11.01
+EUR,Europe,FRA,France,Year,2017,False,11.03
+AFR,Africa,NAM,Namibia,Year,2017,False,11.06
+EUR,Europe,AUT,Austria,Year,2017,False,11.09
+AMR,Americas,GUY,Guyana,Year,2017,False,11.21
+AMR,Americas,BLZ,Belize,Year,2017,False,11.3
+EUR,Europe,UKR,Ukraine,Year,2017,False,11.63
+EUR,Europe,MDA,Republic of Moldova,Year,2017,False,11.67
+AMR,Americas,SUR,Suriname,Year,2017,False,11.86
+EUR,Europe,MLT,Malta,Year,2017,False,11.92
+AMR,Americas,CUB,Cuba,Year,2017,False,11.98
+SEAR,South-East Asia,MDV,Maldives,Year,2017,False,12.05
+AMR,Americas,ARG,Argentina,Year,2017,False,12.17
+AFR,Africa,ZWE,Zimbabwe,Year,2017,False,12.41
+EUR,Europe,BLR,Belarus,Year,2017,False,12.44
+AFR,Africa,BWA,Botswana,Year,2017,False,12.79
+AMR,Americas,BRA,Brazil,Year,2017,False,13.03
+EUR,Europe,CYP,Cyprus,Year,2017,False,13.08
+AMR,Americas,PAN,Panama,Year,2017,False,13.17
+EUR,Europe,GRC,Greece,Year,2017,False,13.27
+EMR,Eastern Mediterranean,MAR,Morocco,Year,2017,False,13.4
+EUR,Europe,ITA,Italy,Year,2017,False,13.59
+EMR,Eastern Mediterranean,SOM,Somalia,Year,2017,False,13.73
+AFR,Africa,COM,Comoros,Year,2017,False,13.93
+AFR,Africa,ZAF,South Africa,Year,2017,False,14.16
+EUR,Europe,ROU,Romania,Year,2017,False,14.16
+AFR,Africa,TZA,United Republic of Tanzania,Year,2017,False,14.33
+AFR,Africa,SWZ,Eswatini,Year,2017,False,14.49
+AFR,Africa,MDG,Madagascar,Year,2017,False,14.69
+AMR,Americas,COL,Colombia,Year,2017,False,14.86
+AMR,Americas,JAM,Jamaica,Year,2017,False,15.1
+AMR,Americas,PRY,Paraguay,Year,2017,False,15.19
+AMR,Americas,ECU,Ecuador,Year,2017,False,15.44
+EUR,Europe,HUN,Hungary,Year,2017,False,15.71
+AFR,Africa,SYC,Seychelles,Year,2017,False,15.73
+AFR,Africa,MOZ,Mozambique,Year,2017,False,15.82
+WPR,Western Pacific,MYS,Malaysia,Year,2017,False,15.85
+AMR,Americas,CRI,Costa Rica,Year,2017,False,16.04
+EUR,Europe,CZE,Czechia,Year,2017,False,16.05
+AFR,Africa,ZMB,Zambia,Year,2017,False,16.21
+EUR,Europe,SVN,Slovenia,Year,2017,False,16.28
+WPR,Western Pacific,KHM,Cambodia,Year,2017,False,16.38
+WPR,Western Pacific,VNM,Viet Nam,Year,2017,False,16.99
+WPR,Western Pacific,IDN,Indonesia,Year,2017,False,17.01
+AFR,Africa,LSO,Lesotho,Year,2017,False,17.14
+SEAR,South-East Asia,BTN,Bhutan,Year,2017,False,17.15
+AMR,Americas,MEX,Mexico,Year,2017,False,17.52
+AMR,Americas,NIC,Nicaragua,Year,2017,False,17.7
+EUR,Europe,ISR,Israel,Year,2017,False,17.96
+EUR,Europe,HRV,Croatia,Year,2017,False,17.99
+EUR,Europe,SVK,Slovakia,Year,2017,False,18.03
+AFR,Africa,MWI,Malawi,Year,2017,False,18.1
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),Year,2017,False,18.3
+EUR,Europe,ALB,Albania,Year,2017,False,18.43
+EUR,Europe,GEO,Georgia,Year,2017,False,18.75
+SEAR,South-East Asia,TLS,Timor-Leste,Year,2017,False,18.86
+WPR,Western Pacific,PHL,Philippines,Year,2017,False,18.98
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,Year,2017,False,19.09
+EMR,Eastern Mediterranean,DJI,Djibouti,Year,2017,False,19.35
+EUR,Europe,BGR,Bulgaria,Year,2017,False,19.43
+EUR,Europe,POL,Poland,Year,2017,False,20.18
+AMR,Americas,HND,Honduras,Year,2017,False,20.68
+AMR,Americas,CHL,Chile,Year,2017,False,20.81
+EUR,Europe,MNE,Montenegro,Year,2017,False,21.0
+AFR,Africa,ETH,Ethiopia,Year,2017,False,21.35
+AFR,Africa,SSD,South Sudan,Year,2017,False,21.54
+AMR,Americas,GTM,Guatemala,Year,2017,False,22.0
+SEAR,South-East Asia,LKA,Sri Lanka,Year,2017,False,22.12
+EMR,Eastern Mediterranean,SDN,Sudan,Year,2017,False,22.29
+AFR,Africa,GAB,Gabon,Year,2017,False,22.4
+EMR,Eastern Mediterranean,LBN,Lebanon,Year,2017,False,22.43
+AFR,Africa,DZA,Algeria,Year,2017,False,22.45
+AFR,Africa,COG,Congo,Year,2017,False,22.45
+AFR,Africa,AGO,Angola,Year,2017,False,22.59
+EUR,Europe,TUR,Türkiye,Year,2017,False,22.7
+SEAR,South-East Asia,THA,Thailand,Year,2017,False,22.77
+AMR,Americas,SLV,El Salvador,Year,2017,False,23.05
+AFR,Africa,ERI,Eritrea,Year,2017,False,23.34
+AMR,Americas,BOL,Bolivia (Plurinational State of),Year,2017,False,23.5
+EMR,Eastern Mediterranean,SYR,Syrian Arab Republic,Year,2017,False,23.72
+WPR,Western Pacific,KOR,Republic of Korea,Year,2017,False,23.75
+EUR,Europe,SRB,Serbia,Year,2017,False,24.02
+EMR,Eastern Mediterranean,JOR,Jordan,Year,2017,False,24.18
+EMR,Eastern Mediterranean,TUN,Tunisia,Year,2017,False,24.46
+AMR,Americas,PER,Peru,Year,2017,False,25.14
+SEAR,South-East Asia,MMR,Myanmar,Year,2017,False,25.64
+EUR,Europe,KAZ,Kazakhstan,Year,2017,False,26.01
+AFR,Africa,BDI,Burundi,Year,2017,False,26.03
+EUR,Europe,AZE,Azerbaijan,Year,2017,False,26.09
+AFR,Africa,GNQ,Equatorial Guinea,Year,2017,False,26.29
+AFR,Africa,CAF,Central African Republic,Year,2017,False,26.4
+EMR,Eastern Mediterranean,LBY,Libya,Year,2017,False,26.58
+EUR,Europe,MKD,North Macedonia,Year,2017,False,27.01
+EMR,Eastern Mediterranean,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2017,False,27.76
+EUR,Europe,BIH,Bosnia and Herzegovina,Year,2017,False,28.49
+AFR,Africa,CPV,Cabo Verde,Year,2017,False,28.63
+EUR,Europe,TKM,Turkmenistan,Year,2017,False,28.72
+AFR,Africa,COD,Democratic Republic of the Congo,Year,2017,False,28.91
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),Year,2017,False,29.37
+AFR,Africa,STP,Sao Tome and Principe,Year,2017,False,29.49
+AFR,Africa,UGA,Uganda,Year,2017,False,29.57
+EUR,Europe,ARM,Armenia,Year,2017,False,31.46
+AFR,Africa,BEN,Benin,Year,2017,False,31.76
+AFR,Africa,LBR,Liberia,Year,2017,False,32.64
+AFR,Africa,GNB,Guinea-Bissau,Year,2017,False,33.12
+AFR,Africa,RWA,Rwanda,Year,2017,False,34.39
+AFR,Africa,GIN,Guinea,Year,2017,False,35.32
+EMR,Eastern Mediterranean,OMN,Oman,Year,2017,False,35.42
+AFR,Africa,TGO,Togo,Year,2017,False,35.45
+SEAR,South-East Asia,NPL,Nepal,Year,2017,False,35.89
+AFR,Africa,GMB,Gambia,Year,2017,False,36.03
+EMR,Eastern Mediterranean,IRQ,Iraq,Year,2017,False,36.55
+AFR,Africa,MLI,Mali,Year,2017,False,36.61
+AFR,Africa,MRT,Mauritania,Year,2017,False,36.63
+AFR,Africa,SEN,Senegal,Year,2017,False,37.3
+AFR,Africa,SLE,Sierra Leone,Year,2017,False,37.37
+AFR,Africa,CIV,Cote d'Ivoire,Year,2017,False,37.72
+SEAR,South-East Asia,BGD,Bangladesh,Year,2017,False,38.23
+WPR,Western Pacific,CHN,China,Year,2017,False,38.38
+WPR,Western Pacific,MNG,Mongolia,Year,2017,False,38.73
+EMR,Eastern Mediterranean,YEM,Yemen,Year,2017,False,39.97
+EUR,Europe,FIN,Finland,Year,2017,False,4.94
+EUR,Europe,KGZ,Kyrgyzstan,Year,2017,False,40.03
+AFR,Africa,BFA,Burkina Faso,Year,2017,False,40.12
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,Year,2017,False,40.56
+AFR,Africa,TCD,Chad,Year,2017,False,41.75
+EUR,Europe,UZB,Uzbekistan,Year,2017,False,42.4
+AFR,Africa,GHA,Ghana,Year,2017,False,43.04
+EMR,Eastern Mediterranean,EGY,Egypt,Year,2017,False,45.97
+SEAR,South-East Asia,IND,India,Year,2017,False,46.74
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,Year,2017,False,48.04
+EUR,Europe,SWE,Sweden,Year,2017,False,5.28
+EUR,Europe,EST,Estonia,Year,2017,False,5.4
+AMR,Americas,BHS,Bahamas,Year,2017,False,5.44
+WPR,Western Pacific,NRU,Nauru,Year,2017,False,5.51
+EUR,Europe,ISL,Iceland,Year,2017,False,5.53
+AMR,Americas,CAN,Canada,Year,2017,False,5.62
+EUR,Europe,NOR,Norway,Year,2017,False,5.86
+EMR,Eastern Mediterranean,PAK,Pakistan,Year,2017,False,50.19
+AFR,Africa,NER,Niger,Year,2017,False,50.92
+EMR,Eastern Mediterranean,BHR,Bahrain,Year,2017,False,54.03
+EMR,Eastern Mediterranean,AFG,Afghanistan,Year,2017,False,55.08
+AFR,Africa,NGA,Nigeria,Year,2017,False,55.56
+EUR,Europe,TJK,Tajikistan,Year,2017,False,55.97
+EMR,Eastern Mediterranean,KWT,Kuwait,Year,2017,False,56.2
+EMR,Eastern Mediterranean,QAT,Qatar,Year,2017,False,56.33
+AFR,Africa,CMR,Cameroon,Year,2017,False,56.59
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,Year,2017,False,57.25
+WPR,Western Pacific,AUS,Australia,Year,2017,False,6.16
+WPR,Western Pacific,NIU,Niue,Year,2017,False,6.64
+WPR,Western Pacific,BRN,Brunei Darussalam,Year,2017,False,6.82
+WPR,Western Pacific,TUV,Tuvalu,Year,2017,False,6.85
+WPR,Western Pacific,NZL,New Zealand,Year,2017,False,6.88
+AMR,Americas,USA,United States of America,Year,2017,False,6.96
+WPR,Western Pacific,MHL,Marshall Islands,Year,2017,False,7.01
+WPR,Western Pacific,KIR,Kiribati,Year,2017,False,7.21
+WPR,Western Pacific,TON,Tonga,Year,2017,False,7.26
+WPR,Western Pacific,FJI,Fiji,Year,2017,False,7.31
+EUR,Europe,RUS,Russian Federation,Year,2017,False,7.31
+EUR,Europe,IRL,Ireland,Year,2017,False,7.44
+WPR,Western Pacific,WSM,Samoa,Year,2017,False,7.45
+WPR,Western Pacific,PLW,Palau,Year,2017,False,7.48
+WPR,Western Pacific,FSM,Micronesia (Federated States of),Year,2017,False,7.56
+WPR,Western Pacific,COK,Cook Islands,Year,2017,False,7.58
+WPR,Western Pacific,SLB,Solomon Islands,Year,2017,False,7.61
+AMR,Americas,DOM,Dominican Republic,Year,2017,False,7.8
+WPR,Western Pacific,VUT,Vanuatu,Year,2017,False,8.38
+AMR,Americas,KNA,Saint Kitts and Nevis,Year,2017,False,8.5
+EUR,Europe,PRT,Portugal,Year,2017,False,8.64
+EUR,Europe,AND,Andorra,Year,2017,False,8.66
+WPR,Western Pacific,PNG,Papua New Guinea,Year,2017,False,8.76
+AMR,Americas,DMA,Dominica,Year,2017,False,8.85
+AMR,Americas,URY,Uruguay,Year,2017,False,9.02
+AMR,Americas,ATG,Antigua and Barbuda,Year,2017,False,9.07
+EUR,Europe,MCO,Monaco,Year,2017,False,9.63
+EUR,Europe,RUS,Russian Federation,Year,2016,False,10.0
+EUR,Europe,ESP,Spain,Year,2016,False,10.04
+AMR,Americas,VCT,Saint Vincent and the Grenadines,Year,2016,False,10.05
+AFR,Africa,MUS,Mauritius,Year,2016,False,10.14
+EUR,Europe,LUX,Luxembourg,Year,2016,False,10.14
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2016,False,10.19
+EUR,Europe,DNK,Denmark,Year,2016,False,10.24
+EUR,Europe,LTU,Lithuania,Year,2016,False,10.3
+EUR,Europe,CHE,Switzerland,Year,2016,False,10.32
+EUR,Europe,SMR,San Marino,Year,2016,False,10.33
+AMR,Americas,BRB,Barbados,Year,2016,False,10.34
+AMR,Americas,GRD,Grenada,Year,2016,False,10.34
+AMR,Americas,HTI,Haiti,Year,2016,False,10.36
+EUR,Europe,DEU,Germany,Year,2016,False,10.48
+AMR,Americas,BRA,Brazil,Year,2016,False,10.53
+AMR,Americas,TTO,Trinidad and Tobago,Year,2016,False,10.69
+EUR,Europe,NLD,Netherlands (Kingdom of the),Year,2016,False,10.74
+EUR,Europe,BEL,Belgium,Year,2016,False,10.85
+AMR,Americas,GUY,Guyana,Year,2016,False,10.96
+EUR,Europe,FRA,France,Year,2016,False,10.97
+AFR,Africa,NAM,Namibia,Year,2016,False,11.02
+EUR,Europe,AUT,Austria,Year,2016,False,11.03
+AMR,Americas,BLZ,Belize,Year,2016,False,11.06
+WPR,Western Pacific,JPN,Japan,Year,2016,False,11.25
+AMR,Americas,SUR,Suriname,Year,2016,False,11.56
+WPR,Western Pacific,SGP,Singapore,Year,2016,False,11.57
+EUR,Europe,LVA,Latvia,Year,2016,False,11.62
+AMR,Americas,CUB,Cuba,Year,2016,False,11.67
+EUR,Europe,UKR,Ukraine,Year,2016,False,12.0
+EUR,Europe,MDA,Republic of Moldova,Year,2016,False,12.19
+EUR,Europe,CYP,Cyprus,Year,2016,False,12.23
+AMR,Americas,PRY,Paraguay,Year,2016,False,12.26
+AFR,Africa,KEN,Kenya,Year,2016,False,12.34
+AFR,Africa,ZWE,Zimbabwe,Year,2016,False,12.36
+AFR,Africa,BWA,Botswana,Year,2016,False,12.39
+EUR,Europe,MLT,Malta,Year,2016,False,12.52
+EUR,Europe,BLR,Belarus,Year,2016,False,12.82
+AMR,Americas,ARG,Argentina,Year,2016,False,12.83
+EMR,Eastern Mediterranean,MAR,Morocco,Year,2016,False,12.99
+SEAR,South-East Asia,MDV,Maldives,Year,2016,False,13.18
+EUR,Europe,GRC,Greece,Year,2016,False,13.25
+EUR,Europe,ITA,Italy,Year,2016,False,13.6
+EMR,Eastern Mediterranean,SOM,Somalia,Year,2016,False,13.64
+EUR,Europe,ROU,Romania,Year,2016,False,13.76
+AFR,Africa,COM,Comoros,Year,2016,False,13.79
+AMR,Americas,PAN,Panama,Year,2016,False,13.9
+AFR,Africa,ZAF,South Africa,Year,2016,False,13.98
+AFR,Africa,SWZ,Eswatini,Year,2016,False,14.29
+AFR,Africa,TZA,United Republic of Tanzania,Year,2016,False,14.74
+AMR,Americas,JAM,Jamaica,Year,2016,False,14.84
+EUR,Europe,HUN,Hungary,Year,2016,False,15.28
+AFR,Africa,MDG,Madagascar,Year,2016,False,15.38
+EUR,Europe,CZE,Czechia,Year,2016,False,15.68
+AMR,Americas,COL,Colombia,Year,2016,False,15.86
+EUR,Europe,SVN,Slovenia,Year,2016,False,15.97
+AFR,Africa,MOZ,Mozambique,Year,2016,False,16.04
+AFR,Africa,ZMB,Zambia,Year,2016,False,16.55
+AMR,Americas,ECU,Ecuador,Year,2016,False,16.78
+AMR,Americas,CRI,Costa Rica,Year,2016,False,16.82
+AFR,Africa,LSO,Lesotho,Year,2016,False,16.84
+AFR,Africa,SYC,Seychelles,Year,2016,False,17.44
+EUR,Europe,HRV,Croatia,Year,2016,False,17.5
+EUR,Europe,SVK,Slovakia,Year,2016,False,17.51
+EUR,Europe,ALB,Albania,Year,2016,False,17.59
+WPR,Western Pacific,MYS,Malaysia,Year,2016,False,17.81
+SEAR,South-East Asia,BTN,Bhutan,Year,2016,False,17.96
+EUR,Europe,ISR,Israel,Year,2016,False,17.97
+AFR,Africa,MWI,Malawi,Year,2016,False,18.22
+AMR,Americas,MEX,Mexico,Year,2016,False,18.33
+WPR,Western Pacific,KHM,Cambodia,Year,2016,False,18.6
+EUR,Europe,BGR,Bulgaria,Year,2016,False,18.76
+AMR,Americas,NIC,Nicaragua,Year,2016,False,18.83
+WPR,Western Pacific,VNM,Viet Nam,Year,2016,False,19.07
+EMR,Eastern Mediterranean,DJI,Djibouti,Year,2016,False,19.1
+WPR,Western Pacific,IDN,Indonesia,Year,2016,False,19.15
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),Year,2016,False,19.19
+EUR,Europe,POL,Poland,Year,2016,False,19.56
+EUR,Europe,MNE,Montenegro,Year,2016,False,19.81
+EUR,Europe,GEO,Georgia,Year,2016,False,19.84
+SEAR,South-East Asia,TLS,Timor-Leste,Year,2016,False,20.57
+WPR,Western Pacific,PHL,Philippines,Year,2016,False,21.0
+AFR,Africa,ETH,Ethiopia,Year,2016,False,21.26
+AMR,Americas,CHL,Chile,Year,2016,False,21.86
+EMR,Eastern Mediterranean,SDN,Sudan,Year,2016,False,21.98
+AFR,Africa,ERI,Eritrea,Year,2016,False,22.04
+AFR,Africa,DZA,Algeria,Year,2016,False,22.07
+AMR,Americas,HND,Honduras,Year,2016,False,22.25
+AFR,Africa,SSD,South Sudan,Year,2016,False,22.28
+EUR,Europe,TUR,Türkiye,Year,2016,False,22.36
+EMR,Eastern Mediterranean,LBN,Lebanon,Year,2016,False,22.38
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,Year,2016,False,22.47
+AMR,Americas,GTM,Guatemala,Year,2016,False,23.09
+AFR,Africa,GAB,Gabon,Year,2016,False,23.24
+EUR,Europe,SRB,Serbia,Year,2016,False,23.27
+EMR,Eastern Mediterranean,SYR,Syrian Arab Republic,Year,2016,False,23.33
+AFR,Africa,AGO,Angola,Year,2016,False,23.66
+AFR,Africa,COG,Congo,Year,2016,False,23.69
+EMR,Eastern Mediterranean,JOR,Jordan,Year,2016,False,23.79
+SEAR,South-East Asia,LKA,Sri Lanka,Year,2016,False,24.42
+AMR,Americas,SLV,El Salvador,Year,2016,False,24.52
+WPR,Western Pacific,KOR,Republic of Korea,Year,2016,False,24.94
+AMR,Americas,BOL,Bolivia (Plurinational State of),Year,2016,False,25.71
+SEAR,South-East Asia,THA,Thailand,Year,2016,False,25.75
+EMR,Eastern Mediterranean,TUN,Tunisia,Year,2016,False,25.86
+EUR,Europe,MKD,North Macedonia,Year,2016,False,26.05
+AFR,Africa,GNQ,Equatorial Guinea,Year,2016,False,26.67
+AFR,Africa,BDI,Burundi,Year,2016,False,26.79
+EUR,Europe,BIH,Bosnia and Herzegovina,Year,2016,False,27.15
+AMR,Americas,PER,Peru,Year,2016,False,27.22
+EUR,Europe,AZE,Azerbaijan,Year,2016,False,27.45
+EUR,Europe,KAZ,Kazakhstan,Year,2016,False,27.52
+EMR,Eastern Mediterranean,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2016,False,27.54
+AFR,Africa,CAF,Central African Republic,Year,2016,False,27.57
+AFR,Africa,CPV,Cabo Verde,Year,2016,False,28.06
+EMR,Eastern Mediterranean,LBY,Libya,Year,2016,False,28.26
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),Year,2016,False,28.6
+SEAR,South-East Asia,MMR,Myanmar,Year,2016,False,28.97
+AFR,Africa,STP,Sao Tome and Principe,Year,2016,False,29.96
+EUR,Europe,TKM,Turkmenistan,Year,2016,False,30.33
+AFR,Africa,UGA,Uganda,Year,2016,False,30.42
+AFR,Africa,COD,Democratic Republic of the Congo,Year,2016,False,30.62
+AFR,Africa,BEN,Benin,Year,2016,False,31.76
+AFR,Africa,GNB,Guinea-Bissau,Year,2016,False,31.96
+AFR,Africa,LBR,Liberia,Year,2016,False,32.55
+EUR,Europe,ARM,Armenia,Year,2016,False,33.37
+AFR,Africa,GMB,Gambia,Year,2016,False,34.57
+AFR,Africa,RWA,Rwanda,Year,2016,False,34.63
+EMR,Eastern Mediterranean,OMN,Oman,Year,2016,False,34.93
+AFR,Africa,TGO,Togo,Year,2016,False,35.71
+AFR,Africa,MRT,Mauritania,Year,2016,False,35.85
+AFR,Africa,SEN,Senegal,Year,2016,False,36.08
+EMR,Eastern Mediterranean,IRQ,Iraq,Year,2016,False,36.18
+AFR,Africa,GIN,Guinea,Year,2016,False,36.24
+AFR,Africa,MLI,Mali,Year,2016,False,36.5
+SEAR,South-East Asia,NPL,Nepal,Year,2016,False,37.65
+AFR,Africa,SLE,Sierra Leone,Year,2016,False,38.3
+EMR,Eastern Mediterranean,YEM,Yemen,Year,2016,False,38.54
+AFR,Africa,CIV,Cote d'Ivoire,Year,2016,False,38.54
+WPR,Western Pacific,CHN,China,Year,2016,False,39.11
+SEAR,South-East Asia,BGD,Bangladesh,Year,2016,False,39.59
+EUR,Europe,FIN,Finland,Year,2016,False,4.93
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,Year,2016,False,40.3
+AFR,Africa,BFA,Burkina Faso,Year,2016,False,40.52
+WPR,Western Pacific,MNG,Mongolia,Year,2016,False,41.33
+AFR,Africa,TCD,Chad,Year,2016,False,41.96
+EUR,Europe,KGZ,Kyrgyzstan,Year,2016,False,42.43
+AFR,Africa,GHA,Ghana,Year,2016,False,43.74
+EUR,Europe,UZB,Uzbekistan,Year,2016,False,44.83
+EMR,Eastern Mediterranean,EGY,Egypt,Year,2016,False,46.03
+SEAR,South-East Asia,IND,India,Year,2016,False,48.26
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,Year,2016,False,48.73
+AMR,Americas,CAN,Canada,Year,2016,False,5.06
+AMR,Americas,BHS,Bahamas,Year,2016,False,5.22
+EUR,Europe,SWE,Sweden,Year,2016,False,5.24
+WPR,Western Pacific,NRU,Nauru,Year,2016,False,5.43
+EUR,Europe,ISL,Iceland,Year,2016,False,5.47
+EUR,Europe,EST,Estonia,Year,2016,False,5.66
+EUR,Europe,NOR,Norway,Year,2016,False,5.82
+WPR,Western Pacific,AUS,Australia,Year,2016,False,5.94
+AFR,Africa,NER,Niger,Year,2016,False,51.0
+EMR,Eastern Mediterranean,PAK,Pakistan,Year,2016,False,51.77
+EMR,Eastern Mediterranean,BHR,Bahrain,Year,2016,False,52.22
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,Year,2016,False,54.59
+EMR,Eastern Mediterranean,QAT,Qatar,Year,2016,False,54.83
+EMR,Eastern Mediterranean,KWT,Kuwait,Year,2016,False,55.16
+AFR,Africa,NGA,Nigeria,Year,2016,False,55.33
+AFR,Africa,CMR,Cameroon,Year,2016,False,56.58
+EMR,Eastern Mediterranean,AFG,Afghanistan,Year,2016,False,57.0
+EUR,Europe,TJK,Tajikistan,Year,2016,False,59.13
+AMR,Americas,USA,United States of America,Year,2016,False,6.58
+WPR,Western Pacific,NZL,New Zealand,Year,2016,False,6.63
+WPR,Western Pacific,TUV,Tuvalu,Year,2016,False,6.7
+WPR,Western Pacific,NIU,Niue,Year,2016,False,6.75
+WPR,Western Pacific,MHL,Marshall Islands,Year,2016,False,7.14
+WPR,Western Pacific,KIR,Kiribati,Year,2016,False,7.2
+WPR,Western Pacific,FJI,Fiji,Year,2016,False,7.25
+WPR,Western Pacific,TON,Tonga,Year,2016,False,7.28
+WPR,Western Pacific,WSM,Samoa,Year,2016,False,7.39
+EUR,Europe,IRL,Ireland,Year,2016,False,7.4
+AMR,Americas,DOM,Dominican Republic,Year,2016,False,7.52
+WPR,Western Pacific,PLW,Palau,Year,2016,False,7.57
+WPR,Western Pacific,SLB,Solomon Islands,Year,2016,False,7.57
+WPR,Western Pacific,COK,Cook Islands,Year,2016,False,7.6
+EUR,Europe,PRT,Portugal,Year,2016,False,7.61
+WPR,Western Pacific,FSM,Micronesia (Federated States of),Year,2016,False,7.68
+WPR,Western Pacific,BRN,Brunei Darussalam,Year,2016,False,7.73
+AMR,Americas,KNA,Saint Kitts and Nevis,Year,2016,False,8.2
+EUR,Europe,AND,Andorra,Year,2016,False,8.42
+WPR,Western Pacific,VUT,Vanuatu,Year,2016,False,8.51
+AMR,Americas,DMA,Dominica,Year,2016,False,8.52
+WPR,Western Pacific,PNG,Papua New Guinea,Year,2016,False,8.57
+AMR,Americas,ATG,Antigua and Barbuda,Year,2016,False,8.76
+AMR,Americas,URY,Uruguay,Year,2016,False,9.47
+AMR,Americas,LCA,Saint Lucia,Year,2016,False,9.52
+EUR,Europe,MCO,Monaco,Year,2016,False,9.53
+AFR,Africa,KEN,Kenya,Year,2015,False,10.0
+AMR,Americas,URY,Uruguay,Year,2015,False,10.05
+AMR,Americas,VCT,Saint Vincent and the Grenadines,Year,2015,False,10.09
+AMR,Americas,HTI,Haiti,Year,2015,False,10.14
+AFR,Africa,MUS,Mauritius,Year,2015,False,10.15
+EUR,Europe,LUX,Luxembourg,Year,2015,False,10.17
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2015,False,10.2
+EUR,Europe,FRA,France,Year,2015,False,10.34
+EUR,Europe,AND,Andorra,Year,2015,False,10.35
+EUR,Europe,LTU,Lithuania,Year,2015,False,10.35
+EUR,Europe,MCO,Monaco,Year,2015,False,10.41
+AMR,Americas,GRD,Grenada,Year,2015,False,10.5
+AMR,Americas,BRB,Barbados,Year,2015,False,10.53
+EUR,Europe,RUS,Russian Federation,Year,2015,False,10.53
+AMR,Americas,BRA,Brazil,Year,2015,False,10.55
+EUR,Europe,LVA,Latvia,Year,2015,False,10.61
+EUR,Europe,CHE,Switzerland,Year,2015,False,10.62
+EUR,Europe,DNK,Denmark,Year,2015,False,10.67
+AMR,Americas,TTO,Trinidad and Tobago,Year,2015,False,10.68
+EUR,Europe,ESP,Spain,Year,2015,False,10.85
+AMR,Americas,GUY,Guyana,Year,2015,False,10.94
+AFR,Africa,NAM,Namibia,Year,2015,False,11.0
+AMR,Americas,BLZ,Belize,Year,2015,False,11.05
+EUR,Europe,DEU,Germany,Year,2015,False,11.38
+WPR,Western Pacific,JPN,Japan,Year,2015,False,11.42
+EUR,Europe,SMR,San Marino,Year,2015,False,11.42
+AMR,Americas,CUB,Cuba,Year,2015,False,11.43
+AMR,Americas,SUR,Suriname,Year,2015,False,11.56
+EUR,Europe,NLD,Netherlands (Kingdom of the),Year,2015,False,11.66
+EUR,Europe,BEL,Belgium,Year,2015,False,11.67
+SEAR,South-East Asia,MDV,Maldives,Year,2015,False,11.82
+AMR,Americas,PRY,Paraguay,Year,2015,False,12.09
+WPR,Western Pacific,SGP,Singapore,Year,2015,False,12.11
+EUR,Europe,AUT,Austria,Year,2015,False,12.12
+AFR,Africa,ZWE,Zimbabwe,Year,2015,False,12.55
+AFR,Africa,BWA,Botswana,Year,2015,False,12.58
+EMR,Eastern Mediterranean,MAR,Morocco,Year,2015,False,12.89
+AMR,Americas,ARG,Argentina,Year,2015,False,13.04
+EUR,Europe,MLT,Malta,Year,2015,False,13.08
+EUR,Europe,UKR,Ukraine,Year,2015,False,13.26
+EUR,Europe,MDA,Republic of Moldova,Year,2015,False,13.28
+EMR,Eastern Mediterranean,SOM,Somalia,Year,2015,False,13.53
+EUR,Europe,CYP,Cyprus,Year,2015,False,13.57
+AFR,Africa,ZAF,South Africa,Year,2015,False,14.09
+AFR,Africa,COM,Comoros,Year,2015,False,14.18
+EUR,Europe,GRC,Greece,Year,2015,False,14.32
+EUR,Europe,ROU,Romania,Year,2015,False,14.35
+EUR,Europe,BLR,Belarus,Year,2015,False,14.41
+AFR,Africa,SWZ,Eswatini,Year,2015,False,14.55
+AMR,Americas,JAM,Jamaica,Year,2015,False,14.57
+AMR,Americas,PAN,Panama,Year,2015,False,14.62
+AFR,Africa,TZA,United Republic of Tanzania,Year,2015,False,14.75
+EUR,Europe,ITA,Italy,Year,2015,False,14.84
+AFR,Africa,MDG,Madagascar,Year,2015,False,15.17
+AFR,Africa,SYC,Seychelles,Year,2015,False,15.86
+AMR,Americas,COL,Colombia,Year,2015,False,16.21
+EUR,Europe,HUN,Hungary,Year,2015,False,16.21
+AFR,Africa,MOZ,Mozambique,Year,2015,False,16.22
+EUR,Europe,CZE,Czechia,Year,2015,False,16.55
+AFR,Africa,ZMB,Zambia,Year,2015,False,16.71
+WPR,Western Pacific,MYS,Malaysia,Year,2015,False,16.72
+EUR,Europe,SVN,Slovenia,Year,2015,False,16.75
+WPR,Western Pacific,KHM,Cambodia,Year,2015,False,16.96
+AFR,Africa,LSO,Lesotho,Year,2015,False,17.06
+AMR,Americas,ECU,Ecuador,Year,2015,False,17.25
+AMR,Americas,CRI,Costa Rica,Year,2015,False,17.38
+WPR,Western Pacific,VNM,Viet Nam,Year,2015,False,17.4
+WPR,Western Pacific,IDN,Indonesia,Year,2015,False,17.67
+EUR,Europe,ALB,Albania,Year,2015,False,18.35
+EUR,Europe,HRV,Croatia,Year,2015,False,18.4
+AFR,Africa,MWI,Malawi,Year,2015,False,18.44
+EUR,Europe,SVK,Slovakia,Year,2015,False,18.55
+AMR,Americas,MEX,Mexico,Year,2015,False,18.73
+SEAR,South-East Asia,TLS,Timor-Leste,Year,2015,False,18.87
+EMR,Eastern Mediterranean,DJI,Djibouti,Year,2015,False,18.97
+SEAR,South-East Asia,BTN,Bhutan,Year,2015,False,19.03
+WPR,Western Pacific,PHL,Philippines,Year,2015,False,19.41
+EUR,Europe,BGR,Bulgaria,Year,2015,False,19.5
+EUR,Europe,ISR,Israel,Year,2015,False,19.59
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),Year,2015,False,19.67
+AMR,Americas,NIC,Nicaragua,Year,2015,False,19.78
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,Year,2015,False,19.96
+EUR,Europe,GEO,Georgia,Year,2015,False,20.12
+EUR,Europe,POL,Poland,Year,2015,False,20.74
+EUR,Europe,MNE,Montenegro,Year,2015,False,20.76
+AFR,Africa,ETH,Ethiopia,Year,2015,False,21.21
+AFR,Africa,DZA,Algeria,Year,2015,False,21.4
+AFR,Africa,SSD,South Sudan,Year,2015,False,21.99
+AFR,Africa,ERI,Eritrea,Year,2015,False,22.07
+SEAR,South-East Asia,LKA,Sri Lanka,Year,2015,False,22.09
+EMR,Eastern Mediterranean,SDN,Sudan,Year,2015,False,22.11
+AMR,Americas,CHL,Chile,Year,2015,False,22.28
+AFR,Africa,GAB,Gabon,Year,2015,False,22.58
+EUR,Europe,TUR,Türkiye,Year,2015,False,22.65
+AMR,Americas,HND,Honduras,Year,2015,False,22.67
+EMR,Eastern Mediterranean,LBN,Lebanon,Year,2015,False,22.72
+AFR,Africa,COG,Congo,Year,2015,False,22.89
+AFR,Africa,AGO,Angola,Year,2015,False,23.25
+SEAR,South-East Asia,THA,Thailand,Year,2015,False,23.42
+AMR,Americas,GTM,Guatemala,Year,2015,False,23.53
+EMR,Eastern Mediterranean,SYR,Syrian Arab Republic,Year,2015,False,23.63
+EMR,Eastern Mediterranean,JOR,Jordan,Year,2015,False,24.23
+EUR,Europe,SRB,Serbia,Year,2015,False,24.31
+EMR,Eastern Mediterranean,TUN,Tunisia,Year,2015,False,24.4
+AMR,Americas,SLV,El Salvador,Year,2015,False,25.19
+WPR,Western Pacific,KOR,Republic of Korea,Year,2015,False,25.27
+AMR,Americas,BOL,Bolivia (Plurinational State of),Year,2015,False,25.7
+SEAR,South-East Asia,MMR,Myanmar,Year,2015,False,26.24
+AFR,Africa,BDI,Burundi,Year,2015,False,26.87
+AFR,Africa,GNQ,Equatorial Guinea,Year,2015,False,26.93
+EUR,Europe,MKD,North Macedonia,Year,2015,False,27.18
+EMR,Eastern Mediterranean,LBY,Libya,Year,2015,False,27.2
+AFR,Africa,CAF,Central African Republic,Year,2015,False,27.31
+EUR,Europe,KAZ,Kazakhstan,Year,2015,False,27.63
+AMR,Americas,PER,Peru,Year,2015,False,27.79
+EMR,Eastern Mediterranean,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2015,False,27.79
+EUR,Europe,BIH,Bosnia and Herzegovina,Year,2015,False,28.13
+EUR,Europe,AZE,Azerbaijan,Year,2015,False,28.18
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),Year,2015,False,29.04
+AFR,Africa,CPV,Cabo Verde,Year,2015,False,29.54
+AFR,Africa,COD,Democratic Republic of the Congo,Year,2015,False,29.94
+AFR,Africa,UGA,Uganda,Year,2015,False,29.97
+AFR,Africa,STP,Sao Tome and Principe,Year,2015,False,30.13
+EUR,Europe,TKM,Turkmenistan,Year,2015,False,30.64
+AFR,Africa,BEN,Benin,Year,2015,False,32.21
+AFR,Africa,GNB,Guinea-Bissau,Year,2015,False,32.9
+EUR,Europe,ARM,Armenia,Year,2015,False,33.83
+AFR,Africa,RWA,Rwanda,Year,2015,False,34.39
+AFR,Africa,LBR,Liberia,Year,2015,False,34.69
+EMR,Eastern Mediterranean,OMN,Oman,Year,2015,False,35.19
+AFR,Africa,GMB,Gambia,Year,2015,False,35.52
+AFR,Africa,GIN,Guinea,Year,2015,False,36.23
+AFR,Africa,TGO,Togo,Year,2015,False,36.31
+EMR,Eastern Mediterranean,IRQ,Iraq,Year,2015,False,36.85
+AFR,Africa,MRT,Mauritania,Year,2015,False,37.03
+AFR,Africa,SEN,Senegal,Year,2015,False,37.23
+AFR,Africa,MLI,Mali,Year,2015,False,37.33
+SEAR,South-East Asia,NPL,Nepal,Year,2015,False,38.79
+AFR,Africa,CIV,Cote d'Ivoire,Year,2015,False,39.4
+EMR,Eastern Mediterranean,YEM,Yemen,Year,2015,False,39.81
+AMR,Americas,BHS,Bahamas,Year,2015,False,4.97
+AFR,Africa,SLE,Sierra Leone,Year,2015,False,40.12
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,Year,2015,False,41.03
+AFR,Africa,BFA,Burkina Faso,Year,2015,False,41.15
+AFR,Africa,TCD,Chad,Year,2015,False,41.88
+SEAR,South-East Asia,BGD,Bangladesh,Year,2015,False,41.96
+WPR,Western Pacific,MNG,Mongolia,Year,2015,False,41.97
+WPR,Western Pacific,CHN,China,Year,2015,False,42.52
+EUR,Europe,KGZ,Kyrgyzstan,Year,2015,False,42.9
+AFR,Africa,GHA,Ghana,Year,2015,False,44.3
+EUR,Europe,UZB,Uzbekistan,Year,2015,False,45.1
+EMR,Eastern Mediterranean,EGY,Egypt,Year,2015,False,45.79
+EUR,Europe,FIN,Finland,Year,2015,False,5.33
+WPR,Western Pacific,NRU,Nauru,Year,2015,False,5.39
+EUR,Europe,SWE,Sweden,Year,2015,False,5.67
+AMR,Americas,CAN,Canada,Year,2015,False,5.8
+WPR,Western Pacific,AUS,Australia,Year,2015,False,5.83
+SEAR,South-East Asia,IND,India,Year,2015,False,50.48
+AFR,Africa,NER,Niger,Year,2015,False,51.33
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,Year,2015,False,53.88
+EMR,Eastern Mediterranean,PAK,Pakistan,Year,2015,False,54.0
+AFR,Africa,NGA,Nigeria,Year,2015,False,55.33
+EMR,Eastern Mediterranean,BHR,Bahrain,Year,2015,False,55.88
+AFR,Africa,CMR,Cameroon,Year,2015,False,56.57
+EMR,Eastern Mediterranean,KWT,Kuwait,Year,2015,False,56.83
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,Year,2015,False,57.37
+EMR,Eastern Mediterranean,QAT,Qatar,Year,2015,False,58.74
+EUR,Europe,TJK,Tajikistan,Year,2015,False,59.65
+EMR,Eastern Mediterranean,AFG,Afghanistan,Year,2015,False,59.99
+EUR,Europe,ISL,Iceland,Year,2015,False,6.18
+EUR,Europe,EST,Estonia,Year,2015,False,6.19
+EUR,Europe,NOR,Norway,Year,2015,False,6.28
+WPR,Western Pacific,NIU,Niue,Year,2015,False,6.53
+WPR,Western Pacific,NZL,New Zealand,Year,2015,False,6.67
+WPR,Western Pacific,KIR,Kiribati,Year,2015,False,6.95
+WPR,Western Pacific,TUV,Tuvalu,Year,2015,False,6.95
+WPR,Western Pacific,MHL,Marshall Islands,Year,2015,False,6.96
+WPR,Western Pacific,TON,Tonga,Year,2015,False,7.14
+WPR,Western Pacific,FJI,Fiji,Year,2015,False,7.2
+AMR,Americas,USA,United States of America,Year,2015,False,7.3
+AMR,Americas,DOM,Dominican Republic,Year,2015,False,7.39
+WPR,Western Pacific,COK,Cook Islands,Year,2015,False,7.44
+WPR,Western Pacific,WSM,Samoa,Year,2015,False,7.53
+WPR,Western Pacific,FSM,Micronesia (Federated States of),Year,2015,False,7.6
+WPR,Western Pacific,BRN,Brunei Darussalam,Year,2015,False,7.63
+WPR,Western Pacific,SLB,Solomon Islands,Year,2015,False,7.68
+EUR,Europe,PRT,Portugal,Year,2015,False,7.78
+WPR,Western Pacific,PLW,Palau,Year,2015,False,7.99
+AMR,Americas,KNA,Saint Kitts and Nevis,Year,2015,False,8.15
+EUR,Europe,IRL,Ireland,Year,2015,False,8.39
+WPR,Western Pacific,VUT,Vanuatu,Year,2015,False,8.45
+AMR,Americas,DMA,Dominica,Year,2015,False,8.45
+AMR,Americas,ATG,Antigua and Barbuda,Year,2015,False,8.7
+WPR,Western Pacific,PNG,Papua New Guinea,Year,2015,False,8.86
+AMR,Americas,LCA,Saint Lucia,Year,2015,False,9.57
+AMR,Americas,BRB,Barbados,Year,2014,False,10.0
+EUR,Europe,MLT,Malta,Year,2014,False,10.01
+EUR,Europe,FRA,France,Year,2014,False,10.01
+AMR,Americas,HTI,Haiti,Year,2014,False,10.02
+AFR,Africa,MUS,Mauritius,Year,2014,False,10.06
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2014,False,10.06
+EUR,Europe,ESP,Spain,Year,2014,False,10.06
+AMR,Americas,TTO,Trinidad and Tobago,Year,2014,False,10.1
+AMR,Americas,GRD,Grenada,Year,2014,False,10.18
+EUR,Europe,LUX,Luxembourg,Year,2014,False,10.27
+EUR,Europe,CHE,Switzerland,Year,2014,False,10.32
+EUR,Europe,DNK,Denmark,Year,2014,False,10.34
+AMR,Americas,GUY,Guyana,Year,2014,False,10.37
+AMR,Americas,BLZ,Belize,Year,2014,False,10.79
+EUR,Europe,RUS,Russian Federation,Year,2014,False,10.8
+AMR,Americas,SUR,Suriname,Year,2014,False,10.91
+EUR,Europe,SMR,San Marino,Year,2014,False,11.0
+AMR,Americas,CUB,Cuba,Year,2014,False,11.07
+AFR,Africa,NAM,Namibia,Year,2014,False,11.08
+EUR,Europe,DEU,Germany,Year,2014,False,11.2
+AMR,Americas,BRA,Brazil,Year,2014,False,11.49
+EUR,Europe,BEL,Belgium,Year,2014,False,11.51
+EUR,Europe,NLD,Netherlands (Kingdom of the),Year,2014,False,11.57
+EUR,Europe,AUT,Austria,Year,2014,False,11.64
+SEAR,South-East Asia,MDV,Maldives,Year,2014,False,11.68
+EUR,Europe,LTU,Lithuania,Year,2014,False,11.7
+WPR,Western Pacific,JPN,Japan,Year,2014,False,12.0
+EUR,Europe,LVA,Latvia,Year,2014,False,12.15
+AFR,Africa,KEN,Kenya,Year,2014,False,12.29
+AFR,Africa,ZWE,Zimbabwe,Year,2014,False,12.4
+WPR,Western Pacific,SGP,Singapore,Year,2014,False,12.46
+AFR,Africa,BWA,Botswana,Year,2014,False,12.48
+AMR,Americas,ARG,Argentina,Year,2014,False,12.52
+EMR,Eastern Mediterranean,MAR,Morocco,Year,2014,False,12.76
+AMR,Americas,PRY,Paraguay,Year,2014,False,13.1
+EUR,Europe,CYP,Cyprus,Year,2014,False,13.35
+EMR,Eastern Mediterranean,SOM,Somalia,Year,2014,False,13.55
+EUR,Europe,GRC,Greece,Year,2014,False,13.58
+AFR,Africa,COM,Comoros,Year,2014,False,13.9
+AFR,Africa,ZAF,South Africa,Year,2014,False,14.16
+AMR,Americas,JAM,Jamaica,Year,2014,False,14.23
+AMR,Americas,PAN,Panama,Year,2014,False,14.29
+EUR,Europe,ITA,Italy,Year,2014,False,14.31
+AFR,Africa,TZA,United Republic of Tanzania,Year,2014,False,14.51
+AFR,Africa,SWZ,Eswatini,Year,2014,False,14.75
+EUR,Europe,ROU,Romania,Year,2014,False,14.88
+EUR,Europe,UKR,Ukraine,Year,2014,False,14.98
+AFR,Africa,MDG,Madagascar,Year,2014,False,15.04
+EUR,Europe,MDA,Republic of Moldova,Year,2014,False,15.28
+AFR,Africa,SYC,Seychelles,Year,2014,False,15.58
+AMR,Americas,COL,Colombia,Year,2014,False,16.12
+AFR,Africa,MOZ,Mozambique,Year,2014,False,16.17
+WPR,Western Pacific,MYS,Malaysia,Year,2014,False,16.22
+EUR,Europe,BLR,Belarus,Year,2014,False,16.34
+WPR,Western Pacific,KHM,Cambodia,Year,2014,False,16.57
+AFR,Africa,ZMB,Zambia,Year,2014,False,16.57
+EUR,Europe,HUN,Hungary,Year,2014,False,16.68
+AMR,Americas,CRI,Costa Rica,Year,2014,False,17.05
+WPR,Western Pacific,VNM,Viet Nam,Year,2014,False,17.08
+EUR,Europe,SVN,Slovenia,Year,2014,False,17.09
+EUR,Europe,CZE,Czechia,Year,2014,False,17.23
+WPR,Western Pacific,IDN,Indonesia,Year,2014,False,17.27
+AFR,Africa,LSO,Lesotho,Year,2014,False,17.41
+AMR,Americas,ECU,Ecuador,Year,2014,False,18.1
+AFR,Africa,MWI,Malawi,Year,2014,False,18.36
+AMR,Americas,MEX,Mexico,Year,2014,False,18.43
+EUR,Europe,ISR,Israel,Year,2014,False,18.45
+EMR,Eastern Mediterranean,DJI,Djibouti,Year,2014,False,18.59
+EUR,Europe,ALB,Albania,Year,2014,False,18.6
+SEAR,South-East Asia,TLS,Timor-Leste,Year,2014,False,18.74
+EUR,Europe,HRV,Croatia,Year,2014,False,18.87
+WPR,Western Pacific,PHL,Philippines,Year,2014,False,18.94
+EUR,Europe,SVK,Slovakia,Year,2014,False,19.01
+SEAR,South-East Asia,BTN,Bhutan,Year,2014,False,19.42
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),Year,2014,False,19.44
+AMR,Americas,NIC,Nicaragua,Year,2014,False,19.55
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,Year,2014,False,19.57
+EUR,Europe,BGR,Bulgaria,Year,2014,False,20.22
+EUR,Europe,GEO,Georgia,Year,2014,False,20.34
+EMR,Eastern Mediterranean,SDN,Sudan,Year,2014,False,20.98
+AFR,Africa,ETH,Ethiopia,Year,2014,False,21.01
+AFR,Africa,ERI,Eritrea,Year,2014,False,21.05
+AFR,Africa,SSD,South Sudan,Year,2014,False,21.16
+AMR,Americas,CHL,Chile,Year,2014,False,21.23
+AFR,Africa,GAB,Gabon,Year,2014,False,21.34
+EUR,Europe,MNE,Montenegro,Year,2014,False,21.38
+EUR,Europe,POL,Poland,Year,2014,False,21.47
+AFR,Africa,DZA,Algeria,Year,2014,False,21.65
+SEAR,South-East Asia,LKA,Sri Lanka,Year,2014,False,21.72
+AFR,Africa,COG,Congo,Year,2014,False,22.03
+EMR,Eastern Mediterranean,LBN,Lebanon,Year,2014,False,22.17
+EUR,Europe,TUR,Türkiye,Year,2014,False,22.56
+AFR,Africa,AGO,Angola,Year,2014,False,22.62
+AMR,Americas,HND,Honduras,Year,2014,False,22.7
+EMR,Eastern Mediterranean,SYR,Syrian Arab Republic,Year,2014,False,23.03
+SEAR,South-East Asia,THA,Thailand,Year,2014,False,23.06
+AMR,Americas,GTM,Guatemala,Year,2014,False,23.26
+EMR,Eastern Mediterranean,JOR,Jordan,Year,2014,False,23.43
+AFR,Africa,GNQ,Equatorial Guinea,Year,2014,False,23.9
+AMR,Americas,SLV,El Salvador,Year,2014,False,25.08
+EUR,Europe,SRB,Serbia,Year,2014,False,25.19
+EMR,Eastern Mediterranean,TUN,Tunisia,Year,2014,False,25.31
+AFR,Africa,CAF,Central African Republic,Year,2014,False,25.72
+SEAR,South-East Asia,MMR,Myanmar,Year,2014,False,25.79
+AFR,Africa,CPV,Cabo Verde,Year,2014,False,26.5
+WPR,Western Pacific,KOR,Republic of Korea,Year,2014,False,26.57
+AMR,Americas,BOL,Bolivia (Plurinational State of),Year,2014,False,26.68
+AFR,Africa,BDI,Burundi,Year,2014,False,26.7
+EMR,Eastern Mediterranean,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2014,False,27.26
+AFR,Africa,STP,Sao Tome and Principe,Year,2014,False,27.75
+EUR,Europe,KAZ,Kazakhstan,Year,2014,False,27.76
+EUR,Europe,MKD,North Macedonia,Year,2014,False,27.99
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),Year,2014,False,28.16
+EMR,Eastern Mediterranean,LBY,Libya,Year,2014,False,28.36
+EUR,Europe,AZE,Azerbaijan,Year,2014,False,28.36
+AMR,Americas,PER,Peru,Year,2014,False,28.9
+AFR,Africa,COD,Democratic Republic of the Congo,Year,2014,False,29.09
+EUR,Europe,BIH,Bosnia and Herzegovina,Year,2014,False,29.31
+AFR,Africa,UGA,Uganda,Year,2014,False,29.75
+AFR,Africa,BEN,Benin,Year,2014,False,30.29
+EUR,Europe,TKM,Turkmenistan,Year,2014,False,31.06
+AFR,Africa,GNB,Guinea-Bissau,Year,2014,False,31.51
+AFR,Africa,LBR,Liberia,Year,2014,False,31.65
+AFR,Africa,TGO,Togo,Year,2014,False,33.45
+EUR,Europe,ARM,Armenia,Year,2014,False,33.79
+AFR,Africa,GMB,Gambia,Year,2014,False,33.83
+EMR,Eastern Mediterranean,OMN,Oman,Year,2014,False,34.0
+EMR,Eastern Mediterranean,IRQ,Iraq,Year,2014,False,34.38
+AFR,Africa,RWA,Rwanda,Year,2014,False,34.59
+AFR,Africa,MRT,Mauritania,Year,2014,False,34.65
+AFR,Africa,GIN,Guinea,Year,2014,False,34.82
+AFR,Africa,MLI,Mali,Year,2014,False,35.0
+AFR,Africa,SEN,Senegal,Year,2014,False,35.21
+AFR,Africa,CIV,Cote d'Ivoire,Year,2014,False,35.56
+EMR,Eastern Mediterranean,YEM,Yemen,Year,2014,False,37.0
+AFR,Africa,BFA,Burkina Faso,Year,2014,False,37.8
+AFR,Africa,SLE,Sierra Leone,Year,2014,False,38.38
+AFR,Africa,TCD,Chad,Year,2014,False,38.7
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,Year,2014,False,38.77
+SEAR,South-East Asia,NPL,Nepal,Year,2014,False,39.26
+AFR,Africa,GHA,Ghana,Year,2014,False,39.93
+AMR,Americas,BHS,Bahamas,Year,2014,False,4.98
+WPR,Western Pacific,MNG,Mongolia,Year,2014,False,41.52
+SEAR,South-East Asia,BGD,Bangladesh,Year,2014,False,42.45
+EUR,Europe,KGZ,Kyrgyzstan,Year,2014,False,42.95
+EMR,Eastern Mediterranean,EGY,Egypt,Year,2014,False,45.17
+EUR,Europe,UZB,Uzbekistan,Year,2014,False,45.4
+WPR,Western Pacific,CHN,China,Year,2014,False,45.83
+AFR,Africa,NER,Niger,Year,2014,False,47.35
+EMR,Eastern Mediterranean,BHR,Bahrain,Year,2014,False,49.32
+EUR,Europe,FIN,Finland,Year,2014,False,5.27
+WPR,Western Pacific,NRU,Nauru,Year,2014,False,5.32
+EUR,Europe,SWE,Sweden,Year,2014,False,5.61
+EUR,Europe,ISL,Iceland,Year,2014,False,5.8
+AMR,Americas,CAN,Canada,Year,2014,False,5.85
+SEAR,South-East Asia,IND,India,Year,2014,False,50.84
+AFR,Africa,CMR,Cameroon,Year,2014,False,51.66
+EMR,Eastern Mediterranean,QAT,Qatar,Year,2014,False,51.92
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,Year,2014,False,51.98
+AFR,Africa,NGA,Nigeria,Year,2014,False,52.52
+EMR,Eastern Mediterranean,KWT,Kuwait,Year,2014,False,52.82
+EMR,Eastern Mediterranean,PAK,Pakistan,Year,2014,False,54.31
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,Year,2014,False,57.53
+EUR,Europe,TJK,Tajikistan,Year,2014,False,59.79
+EUR,Europe,NOR,Norway,Year,2014,False,6.09
+WPR,Western Pacific,AUS,Australia,Year,2014,False,6.13
+WPR,Western Pacific,NIU,Niue,Year,2014,False,6.52
+WPR,Western Pacific,TUV,Tuvalu,Year,2014,False,6.78
+WPR,Western Pacific,MHL,Marshall Islands,Year,2014,False,6.83
+WPR,Western Pacific,NZL,New Zealand,Year,2014,False,6.92
+EMR,Eastern Mediterranean,AFG,Afghanistan,Year,2014,False,60.79
+WPR,Western Pacific,KIR,Kiribati,Year,2014,False,7.01
+EUR,Europe,PRT,Portugal,Year,2014,False,7.05
+WPR,Western Pacific,TON,Tonga,Year,2014,False,7.09
+WPR,Western Pacific,FJI,Fiji,Year,2014,False,7.09
+EUR,Europe,EST,Estonia,Year,2014,False,7.18
+AMR,Americas,DOM,Dominican Republic,Year,2014,False,7.21
+WPR,Western Pacific,FSM,Micronesia (Federated States of),Year,2014,False,7.32
+WPR,Western Pacific,WSM,Samoa,Year,2014,False,7.34
+WPR,Western Pacific,COK,Cook Islands,Year,2014,False,7.35
+WPR,Western Pacific,SLB,Solomon Islands,Year,2014,False,7.44
+AMR,Americas,USA,United States of America,Year,2014,False,7.55
+WPR,Western Pacific,PLW,Palau,Year,2014,False,7.74
+AMR,Americas,KNA,Saint Kitts and Nevis,Year,2014,False,7.8
+WPR,Western Pacific,BRN,Brunei Darussalam,Year,2014,False,7.82
+EUR,Europe,IRL,Ireland,Year,2014,False,7.95
+AMR,Americas,DMA,Dominica,Year,2014,False,8.02
+WPR,Western Pacific,VUT,Vanuatu,Year,2014,False,8.2
+WPR,Western Pacific,PNG,Papua New Guinea,Year,2014,False,8.28
+AMR,Americas,ATG,Antigua and Barbuda,Year,2014,False,8.31
+EUR,Europe,AND,Andorra,Year,2014,False,8.66
+AMR,Americas,VCT,Saint Vincent and the Grenadines,Year,2014,False,9.0
+AMR,Americas,LCA,Saint Lucia,Year,2014,False,9.06
+AMR,Americas,URY,Uruguay,Year,2014,False,9.28
+EUR,Europe,MCO,Monaco,Year,2014,False,9.97
+EUR,Europe,DNK,Denmark,Year,2013,False,10.01
+EUR,Europe,PRT,Portugal,Year,2013,False,10.03
+AFR,Africa,MUS,Mauritius,Year,2013,False,10.05
+AMR,Americas,HTI,Haiti,Year,2013,False,10.09
+EUR,Europe,AND,Andorra,Year,2013,False,10.15
+AMR,Americas,BLZ,Belize,Year,2013,False,10.19
+AMR,Americas,SUR,Suriname,Year,2013,False,10.21
+EUR,Europe,MLT,Malta,Year,2013,False,10.33
+AMR,Americas,GUY,Guyana,Year,2013,False,10.41
+EUR,Europe,RUS,Russian Federation,Year,2013,False,10.46
+EUR,Europe,LUX,Luxembourg,Year,2013,False,10.49
+AMR,Americas,CUB,Cuba,Year,2013,False,10.65
+EUR,Europe,MCO,Monaco,Year,2013,False,10.77
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2013,False,10.83
+EUR,Europe,FRA,France,Year,2013,False,10.91
+EUR,Europe,ESP,Spain,Year,2013,False,10.94
+AFR,Africa,NAM,Namibia,Year,2013,False,11.06
+EUR,Europe,CHE,Switzerland,Year,2013,False,11.18
+AMR,Americas,BRA,Brazil,Year,2013,False,11.39
+EUR,Europe,LTU,Lithuania,Year,2013,False,11.46
+EUR,Europe,SMR,San Marino,Year,2013,False,11.72
+EUR,Europe,LVA,Latvia,Year,2013,False,11.85
+EUR,Europe,DEU,Germany,Year,2013,False,11.9
+WPR,Western Pacific,JPN,Japan,Year,2013,False,11.98
+EUR,Europe,NLD,Netherlands (Kingdom of the),Year,2013,False,12.2
+AFR,Africa,KEN,Kenya,Year,2013,False,12.27
+EMR,Eastern Mediterranean,MAR,Morocco,Year,2013,False,12.32
+AFR,Africa,ZWE,Zimbabwe,Year,2013,False,12.36
+WPR,Western Pacific,SGP,Singapore,Year,2013,False,12.41
+EUR,Europe,AUT,Austria,Year,2013,False,12.54
+AFR,Africa,BWA,Botswana,Year,2013,False,12.54
+EUR,Europe,BEL,Belgium,Year,2013,False,12.57
+AMR,Americas,ARG,Argentina,Year,2013,False,12.93
+SEAR,South-East Asia,MDV,Maldives,Year,2013,False,13.21
+AMR,Americas,JAM,Jamaica,Year,2013,False,13.28
+AMR,Americas,PRY,Paraguay,Year,2013,False,13.45
+EMR,Eastern Mediterranean,SOM,Somalia,Year,2013,False,13.51
+AFR,Africa,COM,Comoros,Year,2013,False,13.73
+AFR,Africa,ZAF,South Africa,Year,2013,False,14.12
+EUR,Europe,UKR,Ukraine,Year,2013,False,14.43
+EUR,Europe,CYP,Cyprus,Year,2013,False,14.47
+AFR,Africa,TZA,United Republic of Tanzania,Year,2013,False,14.53
+AFR,Africa,SWZ,Eswatini,Year,2013,False,14.61
+EUR,Europe,MDA,Republic of Moldova,Year,2013,False,14.74
+EUR,Europe,ROU,Romania,Year,2013,False,14.83
+EUR,Europe,GRC,Greece,Year,2013,False,15.08
+AMR,Americas,PAN,Panama,Year,2013,False,15.15
+EUR,Europe,ITA,Italy,Year,2013,False,15.35
+AFR,Africa,MDG,Madagascar,Year,2013,False,15.36
+EUR,Europe,BLR,Belarus,Year,2013,False,15.63
+AFR,Africa,MOZ,Mozambique,Year,2013,False,16.18
+EUR,Europe,HUN,Hungary,Year,2013,False,16.45
+AFR,Africa,ZMB,Zambia,Year,2013,False,16.55
+AMR,Americas,COL,Colombia,Year,2013,False,16.89
+EUR,Europe,CZE,Czechia,Year,2013,False,17.03
+EUR,Europe,SVN,Slovenia,Year,2013,False,17.15
+AFR,Africa,LSO,Lesotho,Year,2013,False,17.17
+AFR,Africa,SYC,Seychelles,Year,2013,False,17.54
+AMR,Americas,ECU,Ecuador,Year,2013,False,17.71
+AMR,Americas,CRI,Costa Rica,Year,2013,False,17.98
+WPR,Western Pacific,MYS,Malaysia,Year,2013,False,18.08
+AFR,Africa,MWI,Malawi,Year,2013,False,18.37
+EUR,Europe,HRV,Croatia,Year,2013,False,18.69
+WPR,Western Pacific,KHM,Cambodia,Year,2013,False,18.71
+EUR,Europe,SVK,Slovakia,Year,2013,False,18.95
+EUR,Europe,ALB,Albania,Year,2013,False,19.16
+WPR,Western Pacific,IDN,Indonesia,Year,2013,False,19.21
+WPR,Western Pacific,VNM,Viet Nam,Year,2013,False,19.23
+EMR,Eastern Mediterranean,DJI,Djibouti,Year,2013,False,19.23
+EUR,Europe,ISR,Israel,Year,2013,False,20.0
+AMR,Americas,MEX,Mexico,Year,2013,False,20.03
+SEAR,South-East Asia,BTN,Bhutan,Year,2013,False,20.12
+AFR,Africa,DZA,Algeria,Year,2013,False,20.2
+EUR,Europe,BGR,Bulgaria,Year,2013,False,20.24
+AMR,Americas,NIC,Nicaragua,Year,2013,False,20.47
+SEAR,South-East Asia,TLS,Timor-Leste,Year,2013,False,20.5
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),Year,2013,False,20.58
+AFR,Africa,ETH,Ethiopia,Year,2013,False,21.19
+WPR,Western Pacific,PHL,Philippines,Year,2013,False,21.23
+EUR,Europe,POL,Poland,Year,2013,False,21.38
+EUR,Europe,GEO,Georgia,Year,2013,False,21.42
+AFR,Africa,SSD,South Sudan,Year,2013,False,21.46
+EMR,Eastern Mediterranean,SDN,Sudan,Year,2013,False,21.49
+EUR,Europe,MNE,Montenegro,Year,2013,False,21.58
+AFR,Africa,GAB,Gabon,Year,2013,False,21.75
+AMR,Americas,CHL,Chile,Year,2013,False,21.85
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,Year,2013,False,21.9
+AFR,Africa,ERI,Eritrea,Year,2013,False,21.96
+EMR,Eastern Mediterranean,LBN,Lebanon,Year,2013,False,22.22
+EUR,Europe,TUR,Türkiye,Year,2013,False,22.71
+AFR,Africa,COG,Congo,Year,2013,False,22.78
+EMR,Eastern Mediterranean,SYR,Syrian Arab Republic,Year,2013,False,23.27
+AFR,Africa,AGO,Angola,Year,2013,False,23.31
+EMR,Eastern Mediterranean,JOR,Jordan,Year,2013,False,23.74
+AFR,Africa,GNQ,Equatorial Guinea,Year,2013,False,24.09
+AMR,Americas,HND,Honduras,Year,2013,False,24.12
+EMR,Eastern Mediterranean,TUN,Tunisia,Year,2013,False,24.15
+SEAR,South-East Asia,LKA,Sri Lanka,Year,2013,False,24.46
+AFR,Africa,CAF,Central African Republic,Year,2013,False,24.91
+EUR,Europe,SRB,Serbia,Year,2013,False,25.12
+AMR,Americas,GTM,Guatemala,Year,2013,False,25.23
+AMR,Americas,BOL,Bolivia (Plurinational State of),Year,2013,False,25.74
+SEAR,South-East Asia,THA,Thailand,Year,2013,False,25.89
+WPR,Western Pacific,KOR,Republic of Korea,Year,2013,False,26.26
+AMR,Americas,SLV,El Salvador,Year,2013,False,26.65
+AFR,Africa,BDI,Burundi,Year,2013,False,26.68
+AFR,Africa,CPV,Cabo Verde,Year,2013,False,27.11
+EMR,Eastern Mediterranean,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2013,False,27.12
+AFR,Africa,STP,Sao Tome and Principe,Year,2013,False,27.94
+AMR,Americas,PER,Peru,Year,2013,False,27.99
+EUR,Europe,MKD,North Macedonia,Year,2013,False,28.38
+EMR,Eastern Mediterranean,LBY,Libya,Year,2013,False,28.45
+EUR,Europe,BIH,Bosnia and Herzegovina,Year,2013,False,28.79
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),Year,2013,False,28.81
+SEAR,South-East Asia,MMR,Myanmar,Year,2013,False,28.99
+EUR,Europe,KAZ,Kazakhstan,Year,2013,False,29.33
+AFR,Africa,COD,Democratic Republic of the Congo,Year,2013,False,29.64
+EUR,Europe,AZE,Azerbaijan,Year,2013,False,29.74
+AFR,Africa,LBR,Liberia,Year,2013,False,30.06
+AFR,Africa,BEN,Benin,Year,2013,False,30.1
+AFR,Africa,UGA,Uganda,Year,2013,False,30.25
+AFR,Africa,GNB,Guinea-Bissau,Year,2013,False,30.28
+EUR,Europe,TKM,Turkmenistan,Year,2013,False,32.64
+AFR,Africa,GMB,Gambia,Year,2013,False,32.68
+AFR,Africa,MLI,Mali,Year,2013,False,33.16
+AFR,Africa,GIN,Guinea,Year,2013,False,33.21
+AFR,Africa,TGO,Togo,Year,2013,False,33.23
+AFR,Africa,MRT,Mauritania,Year,2013,False,34.07
+AFR,Africa,SEN,Senegal,Year,2013,False,34.2
+AFR,Africa,RWA,Rwanda,Year,2013,False,34.58
+AFR,Africa,SLE,Sierra Leone,Year,2013,False,35.34
+EMR,Eastern Mediterranean,OMN,Oman,Year,2013,False,35.45
+AFR,Africa,CIV,Cote d'Ivoire,Year,2013,False,35.47
+EUR,Europe,ARM,Armenia,Year,2013,False,35.71
+EMR,Eastern Mediterranean,IRQ,Iraq,Year,2013,False,36.35
+AFR,Africa,BFA,Burkina Faso,Year,2013,False,36.43
+AFR,Africa,TCD,Chad,Year,2013,False,38.36
+EMR,Eastern Mediterranean,YEM,Yemen,Year,2013,False,39.63
+AFR,Africa,GHA,Ghana,Year,2013,False,39.93
+AMR,Americas,BHS,Bahamas,Year,2013,False,4.75
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,Year,2013,False,40.03
+SEAR,South-East Asia,NPL,Nepal,Year,2013,False,40.62
+WPR,Western Pacific,MNG,Mongolia,Year,2013,False,43.28
+SEAR,South-East Asia,BGD,Bangladesh,Year,2013,False,44.04
+EUR,Europe,KGZ,Kyrgyzstan,Year,2013,False,45.85
+EMR,Eastern Mediterranean,EGY,Egypt,Year,2013,False,46.14
+AFR,Africa,NER,Niger,Year,2013,False,46.31
+EUR,Europe,UZB,Uzbekistan,Year,2013,False,48.03
+WPR,Western Pacific,NRU,Nauru,Year,2013,False,5.47
+EUR,Europe,FIN,Finland,Year,2013,False,5.64
+EUR,Europe,SWE,Sweden,Year,2013,False,5.87
+AMR,Americas,CAN,Canada,Year,2013,False,5.91
+AFR,Africa,CMR,Cameroon,Year,2013,False,50.83
+AFR,Africa,NGA,Nigeria,Year,2013,False,51.77
+EMR,Eastern Mediterranean,BHR,Bahrain,Year,2013,False,52.34
+SEAR,South-East Asia,IND,India,Year,2013,False,52.94
+WPR,Western Pacific,CHN,China,Year,2013,False,53.82
+EMR,Eastern Mediterranean,QAT,Qatar,Year,2013,False,54.88
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,Year,2013,False,56.0
+EMR,Eastern Mediterranean,KWT,Kuwait,Year,2013,False,56.4
+EMR,Eastern Mediterranean,PAK,Pakistan,Year,2013,False,56.96
+EUR,Europe,ISL,Iceland,Year,2013,False,6.13
+WPR,Western Pacific,AUS,Australia,Year,2013,False,6.37
+WPR,Western Pacific,NIU,Niue,Year,2013,False,6.41
+EUR,Europe,NOR,Norway,Year,2013,False,6.56
+AMR,Americas,DOM,Dominican Republic,Year,2013,False,6.77
+WPR,Western Pacific,TUV,Tuvalu,Year,2013,False,6.81
+WPR,Western Pacific,TON,Tonga,Year,2013,False,6.98
+EUR,Europe,EST,Estonia,Year,2013,False,6.99
+EUR,Europe,TJK,Tajikistan,Year,2013,False,63.3
+EMR,Eastern Mediterranean,AFG,Afghanistan,Year,2013,False,64.5
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,Year,2013,False,65.42
+WPR,Western Pacific,FJI,Fiji,Year,2013,False,7.01
+WPR,Western Pacific,MHL,Marshall Islands,Year,2013,False,7.08
+WPR,Western Pacific,NZL,New Zealand,Year,2013,False,7.15
+WPR,Western Pacific,KIR,Kiribati,Year,2013,False,7.2
+AMR,Americas,KNA,Saint Kitts and Nevis,Year,2013,False,7.36
+WPR,Western Pacific,SLB,Solomon Islands,Year,2013,False,7.37
+WPR,Western Pacific,WSM,Samoa,Year,2013,False,7.41
+WPR,Western Pacific,COK,Cook Islands,Year,2013,False,7.42
+AMR,Americas,DMA,Dominica,Year,2013,False,7.58
+WPR,Western Pacific,FSM,Micronesia (Federated States of),Year,2013,False,7.59
+AMR,Americas,USA,United States of America,Year,2013,False,7.64
+WPR,Western Pacific,PLW,Palau,Year,2013,False,7.75
+WPR,Western Pacific,BRN,Brunei Darussalam,Year,2013,False,7.87
+AMR,Americas,ATG,Antigua and Barbuda,Year,2013,False,7.88
+WPR,Western Pacific,VUT,Vanuatu,Year,2013,False,8.12
+WPR,Western Pacific,PNG,Papua New Guinea,Year,2013,False,8.28
+AMR,Americas,VCT,Saint Vincent and the Grenadines,Year,2013,False,8.45
+EUR,Europe,IRL,Ireland,Year,2013,False,8.5
+AMR,Americas,LCA,Saint Lucia,Year,2013,False,8.51
+AMR,Americas,BRB,Barbados,Year,2013,False,8.77
+AMR,Americas,GRD,Grenada,Year,2013,False,9.31
+AMR,Americas,URY,Uruguay,Year,2013,False,9.46
+AMR,Americas,TTO,Trinidad and Tobago,Year,2013,False,9.55
+AFR,Africa,MUS,Mauritius,Year,2012,False,10.0
+EUR,Europe,IRL,Ireland,Year,2012,False,10.01
+AMR,Americas,GUY,Guyana,Year,2012,False,10.07
+AMR,Americas,TTO,Trinidad and Tobago,Year,2012,False,10.09
+EUR,Europe,CHE,Switzerland,Year,2012,False,10.12
+AMR,Americas,BLZ,Belize,Year,2012,False,10.15
+EUR,Europe,PRT,Portugal,Year,2012,False,10.15
+EUR,Europe,RUS,Russian Federation,Year,2012,False,10.22
+AMR,Americas,HTI,Haiti,Year,2012,False,10.33
+EUR,Europe,MLT,Malta,Year,2012,False,10.39
+EUR,Europe,ESP,Spain,Year,2012,False,10.4
+EUR,Europe,DNK,Denmark,Year,2012,False,10.43
+AMR,Americas,SUR,Suriname,Year,2012,False,10.59
+EUR,Europe,LUX,Luxembourg,Year,2012,False,10.77
+EUR,Europe,AND,Andorra,Year,2012,False,10.8
+AMR,Americas,CUB,Cuba,Year,2012,False,11.03
+WPR,Western Pacific,JPN,Japan,Year,2012,False,11.04
+EUR,Europe,LTU,Lithuania,Year,2012,False,11.04
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2012,False,11.11
+EUR,Europe,FRA,France,Year,2012,False,11.15
+EUR,Europe,MCO,Monaco,Year,2012,False,11.16
+AFR,Africa,NAM,Namibia,Year,2012,False,11.34
+EUR,Europe,LVA,Latvia,Year,2012,False,11.37
+WPR,Western Pacific,SGP,Singapore,Year,2012,False,11.37
+AMR,Americas,ARG,Argentina,Year,2012,False,11.95
+EUR,Europe,SMR,San Marino,Year,2012,False,12.12
+AFR,Africa,KEN,Kenya,Year,2012,False,12.29
+EUR,Europe,DEU,Germany,Year,2012,False,12.33
+AMR,Americas,BRA,Brazil,Year,2012,False,12.36
+AFR,Africa,ZWE,Zimbabwe,Year,2012,False,12.44
+EUR,Europe,NLD,Netherlands (Kingdom of the),Year,2012,False,12.71
+AFR,Africa,BWA,Botswana,Year,2012,False,12.73
+EMR,Eastern Mediterranean,MAR,Morocco,Year,2012,False,12.73
+EUR,Europe,AUT,Austria,Year,2012,False,12.81
+SEAR,South-East Asia,MDV,Maldives,Year,2012,False,12.82
+EUR,Europe,BEL,Belgium,Year,2012,False,12.83
+AMR,Americas,JAM,Jamaica,Year,2012,False,13.64
+AFR,Africa,COM,Comoros,Year,2012,False,13.83
+EMR,Eastern Mediterranean,SOM,Somalia,Year,2012,False,13.84
+AFR,Africa,ZAF,South Africa,Year,2012,False,14.06
+EUR,Europe,UKR,Ukraine,Year,2012,False,14.13
+AMR,Americas,PRY,Paraguay,Year,2012,False,14.23
+AMR,Americas,PAN,Panama,Year,2012,False,14.36
+AFR,Africa,SWZ,Eswatini,Year,2012,False,14.47
+EUR,Europe,MDA,Republic of Moldova,Year,2012,False,14.49
+EUR,Europe,CYP,Cyprus,Year,2012,False,14.56
+AFR,Africa,TZA,United Republic of Tanzania,Year,2012,False,14.73
+AFR,Africa,MDG,Madagascar,Year,2012,False,14.97
+EUR,Europe,BLR,Belarus,Year,2012,False,15.18
+EUR,Europe,GRC,Greece,Year,2012,False,15.31
+EUR,Europe,ROU,Romania,Year,2012,False,15.75
+EUR,Europe,ITA,Italy,Year,2012,False,15.85
+AFR,Africa,MOZ,Mozambique,Year,2012,False,16.03
+AMR,Americas,COL,Colombia,Year,2012,False,16.07
+AFR,Africa,ZMB,Zambia,Year,2012,False,16.82
+AFR,Africa,LSO,Lesotho,Year,2012,False,16.98
+AFR,Africa,SYC,Seychelles,Year,2012,False,17.1
+EUR,Europe,HUN,Hungary,Year,2012,False,17.16
+AMR,Americas,ECU,Ecuador,Year,2012,False,17.31
+AMR,Americas,CRI,Costa Rica,Year,2012,False,17.4
+WPR,Western Pacific,MYS,Malaysia,Year,2012,False,17.51
+EUR,Europe,CZE,Czechia,Year,2012,False,17.71
+WPR,Western Pacific,KHM,Cambodia,Year,2012,False,17.76
+EUR,Europe,SVN,Slovenia,Year,2012,False,17.85
+WPR,Western Pacific,VNM,Viet Nam,Year,2012,False,18.48
+WPR,Western Pacific,IDN,Indonesia,Year,2012,False,18.56
+AFR,Africa,MWI,Malawi,Year,2012,False,18.62
+AMR,Americas,MEX,Mexico,Year,2012,False,19.11
+SEAR,South-East Asia,BTN,Bhutan,Year,2012,False,19.35
+AMR,Americas,NIC,Nicaragua,Year,2012,False,19.4
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),Year,2012,False,19.4
+EMR,Eastern Mediterranean,DJI,Djibouti,Year,2012,False,19.6
+EUR,Europe,HRV,Croatia,Year,2012,False,19.64
+EUR,Europe,SVK,Slovakia,Year,2012,False,19.75
+EUR,Europe,ISR,Israel,Year,2012,False,20.2
+SEAR,South-East Asia,TLS,Timor-Leste,Year,2012,False,20.2
+AMR,Americas,CHL,Chile,Year,2012,False,20.21
+WPR,Western Pacific,PHL,Philippines,Year,2012,False,20.46
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,Year,2012,False,21.15
+EUR,Europe,ALB,Albania,Year,2012,False,21.21
+AFR,Africa,ETH,Ethiopia,Year,2012,False,21.23
+EUR,Europe,BGR,Bulgaria,Year,2012,False,21.24
+AFR,Africa,SSD,South Sudan,Year,2012,False,21.84
+AMR,Americas,HND,Honduras,Year,2012,False,22.11
+EMR,Eastern Mediterranean,SDN,Sudan,Year,2012,False,22.16
+AFR,Africa,DZA,Algeria,Year,2012,False,22.18
+AFR,Africa,GAB,Gabon,Year,2012,False,22.2
+EMR,Eastern Mediterranean,LBN,Lebanon,Year,2012,False,22.37
+EUR,Europe,POL,Poland,Year,2012,False,22.39
+EUR,Europe,TUR,Türkiye,Year,2012,False,22.44
+AFR,Africa,ERI,Eritrea,Year,2012,False,22.45
+EUR,Europe,GEO,Georgia,Year,2012,False,22.93
+AFR,Africa,COG,Congo,Year,2012,False,23.04
+AFR,Africa,AGO,Angola,Year,2012,False,23.06
+EMR,Eastern Mediterranean,SYR,Syrian Arab Republic,Year,2012,False,23.54
+SEAR,South-East Asia,LKA,Sri Lanka,Year,2012,False,23.6
+AMR,Americas,GTM,Guatemala,Year,2012,False,23.66
+EMR,Eastern Mediterranean,TUN,Tunisia,Year,2012,False,23.8
+EMR,Eastern Mediterranean,JOR,Jordan,Year,2012,False,23.83
+WPR,Western Pacific,KOR,Republic of Korea,Year,2012,False,24.08
+EUR,Europe,MNE,Montenegro,Year,2012,False,24.73
+AMR,Americas,SLV,El Salvador,Year,2012,False,24.86
+SEAR,South-East Asia,THA,Thailand,Year,2012,False,24.97
+AFR,Africa,GNQ,Equatorial Guinea,Year,2012,False,25.27
+AMR,Americas,BOL,Bolivia (Plurinational State of),Year,2012,False,25.43
+EMR,Eastern Mediterranean,LBY,Libya,Year,2012,False,25.95
+AFR,Africa,CAF,Central African Republic,Year,2012,False,26.27
+AFR,Africa,BDI,Burundi,Year,2012,False,26.78
+EUR,Europe,SRB,Serbia,Year,2012,False,26.94
+EMR,Eastern Mediterranean,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2012,False,26.96
+AMR,Americas,PER,Peru,Year,2012,False,27.66
+AFR,Africa,CPV,Cabo Verde,Year,2012,False,28.07
+SEAR,South-East Asia,MMR,Myanmar,Year,2012,False,28.22
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),Year,2012,False,28.92
+AFR,Africa,STP,Sao Tome and Principe,Year,2012,False,28.96
+AFR,Africa,COD,Democratic Republic of the Congo,Year,2012,False,29.72
+AFR,Africa,UGA,Uganda,Year,2012,False,30.55
+EUR,Europe,BIH,Bosnia and Herzegovina,Year,2012,False,30.9
+AFR,Africa,BEN,Benin,Year,2012,False,30.91
+EUR,Europe,MKD,North Macedonia,Year,2012,False,30.95
+EUR,Europe,KAZ,Kazakhstan,Year,2012,False,31.36
+EUR,Europe,AZE,Azerbaijan,Year,2012,False,31.86
+AFR,Africa,GNB,Guinea-Bissau,Year,2012,False,32.26
+AFR,Africa,LBR,Liberia,Year,2012,False,32.64
+AFR,Africa,TGO,Togo,Year,2012,False,34.36
+EUR,Europe,TKM,Turkmenistan,Year,2012,False,34.65
+AFR,Africa,GMB,Gambia,Year,2012,False,34.82
+AFR,Africa,RWA,Rwanda,Year,2012,False,34.99
+AFR,Africa,GIN,Guinea,Year,2012,False,35.81
+EMR,Eastern Mediterranean,OMN,Oman,Year,2012,False,36.14
+AFR,Africa,MRT,Mauritania,Year,2012,False,36.33
+AFR,Africa,SEN,Senegal,Year,2012,False,36.34
+EMR,Eastern Mediterranean,IRQ,Iraq,Year,2012,False,36.42
+AFR,Africa,MLI,Mali,Year,2012,False,36.58
+AFR,Africa,CIV,Cote d'Ivoire,Year,2012,False,37.28
+EUR,Europe,ARM,Armenia,Year,2012,False,38.28
+AFR,Africa,SLE,Sierra Leone,Year,2012,False,38.73
+AFR,Africa,BFA,Burkina Faso,Year,2012,False,39.15
+SEAR,South-East Asia,NPL,Nepal,Year,2012,False,39.43
+AMR,Americas,BHS,Bahamas,Year,2012,False,4.93
+AFR,Africa,TCD,Chad,Year,2012,False,40.65
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,Year,2012,False,40.91
+EMR,Eastern Mediterranean,YEM,Yemen,Year,2012,False,41.22
+AFR,Africa,GHA,Ghana,Year,2012,False,41.4
+SEAR,South-East Asia,BGD,Bangladesh,Year,2012,False,42.44
+WPR,Western Pacific,CHN,China,Year,2012,False,44.26
+EMR,Eastern Mediterranean,EGY,Egypt,Year,2012,False,45.56
+WPR,Western Pacific,MNG,Mongolia,Year,2012,False,47.56
+AFR,Africa,NER,Niger,Year,2012,False,48.38
+EUR,Europe,KGZ,Kyrgyzstan,Year,2012,False,48.43
+WPR,Western Pacific,NRU,Nauru,Year,2012,False,5.51
+EUR,Europe,FIN,Finland,Year,2012,False,5.78
+SEAR,South-East Asia,IND,India,Year,2012,False,50.78
+EUR,Europe,UZB,Uzbekistan,Year,2012,False,51.07
+AFR,Africa,NGA,Nigeria,Year,2012,False,52.96
+AFR,Africa,CMR,Cameroon,Year,2012,False,53.23
+EMR,Eastern Mediterranean,BHR,Bahrain,Year,2012,False,53.68
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,Year,2012,False,53.87
+EMR,Eastern Mediterranean,PAK,Pakistan,Year,2012,False,54.37
+EMR,Eastern Mediterranean,KWT,Kuwait,Year,2012,False,56.23
+EMR,Eastern Mediterranean,QAT,Qatar,Year,2012,False,56.57
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,Year,2012,False,57.4
+EUR,Europe,SWE,Sweden,Year,2012,False,6.13
+AMR,Americas,CAN,Canada,Year,2012,False,6.13
+EUR,Europe,ISL,Iceland,Year,2012,False,6.37
+WPR,Western Pacific,NIU,Niue,Year,2012,False,6.43
+WPR,Western Pacific,AUS,Australia,Year,2012,False,6.52
+EUR,Europe,NOR,Norway,Year,2012,False,6.73
+EUR,Europe,EST,Estonia,Year,2012,False,6.76
+WPR,Western Pacific,TUV,Tuvalu,Year,2012,False,6.87
+WPR,Western Pacific,MHL,Marshall Islands,Year,2012,False,6.98
+WPR,Western Pacific,FJI,Fiji,Year,2012,False,6.98
+WPR,Western Pacific,TON,Tonga,Year,2012,False,6.99
+EMR,Eastern Mediterranean,AFG,Afghanistan,Year,2012,False,61.09
+EUR,Europe,TJK,Tajikistan,Year,2012,False,67.42
+AMR,Americas,DOM,Dominican Republic,Year,2012,False,7.0
+WPR,Western Pacific,KIR,Kiribati,Year,2012,False,7.2
+WPR,Western Pacific,SLB,Solomon Islands,Year,2012,False,7.26
+WPR,Western Pacific,WSM,Samoa,Year,2012,False,7.34
+WPR,Western Pacific,NZL,New Zealand,Year,2012,False,7.35
+WPR,Western Pacific,COK,Cook Islands,Year,2012,False,7.41
+WPR,Western Pacific,FSM,Micronesia (Federated States of),Year,2012,False,7.41
+WPR,Western Pacific,BRN,Brunei Darussalam,Year,2012,False,7.44
+AMR,Americas,KNA,Saint Kitts and Nevis,Year,2012,False,7.51
+WPR,Western Pacific,PLW,Palau,Year,2012,False,7.75
+AMR,Americas,DMA,Dominica,Year,2012,False,7.8
+AMR,Americas,USA,United States of America,Year,2012,False,7.89
+WPR,Western Pacific,VUT,Vanuatu,Year,2012,False,8.01
+AMR,Americas,ATG,Antigua and Barbuda,Year,2012,False,8.02
+WPR,Western Pacific,PNG,Papua New Guinea,Year,2012,False,8.29
+AMR,Americas,VCT,Saint Vincent and the Grenadines,Year,2012,False,8.7
+AMR,Americas,LCA,Saint Lucia,Year,2012,False,8.76
+AMR,Americas,URY,Uruguay,Year,2012,False,8.8
+AMR,Americas,BRB,Barbados,Year,2012,False,9.06
+AMR,Americas,GRD,Grenada,Year,2012,False,9.55
+AMR,Americas,USA,United States of America,Year,2011,False,10.02
+EUR,Europe,NOR,Norway,Year,2011,False,10.07
+AMR,Americas,GUY,Guyana,Year,2011,False,10.09
+AMR,Americas,CUB,Cuba,Year,2011,False,10.3
+AFR,Africa,MUS,Mauritius,Year,2011,False,10.48
+EUR,Europe,RUS,Russian Federation,Year,2011,False,10.53
+EUR,Europe,IRL,Ireland,Year,2011,False,10.6
+EUR,Europe,PRT,Portugal,Year,2011,False,10.68
+EUR,Europe,AND,Andorra,Year,2011,False,10.75
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2011,False,10.76
+AMR,Americas,SUR,Suriname,Year,2011,False,11.12
+EUR,Europe,CHE,Switzerland,Year,2011,False,11.19
+AFR,Africa,NAM,Namibia,Year,2011,False,11.35
+EUR,Europe,LTU,Lithuania,Year,2011,False,11.55
+EUR,Europe,ESP,Spain,Year,2011,False,11.57
+EUR,Europe,DNK,Denmark,Year,2011,False,11.86
+EUR,Europe,MLT,Malta,Year,2011,False,11.87
+EUR,Europe,LVA,Latvia,Year,2011,False,11.88
+SEAR,South-East Asia,MDV,Maldives,Year,2011,False,11.92
+EUR,Europe,LUX,Luxembourg,Year,2011,False,12.02
+AMR,Americas,ARG,Argentina,Year,2011,False,12.16
+AFR,Africa,KEN,Kenya,Year,2011,False,12.27
+EUR,Europe,FRA,France,Year,2011,False,12.31
+EUR,Europe,MCO,Monaco,Year,2011,False,12.37
+WPR,Western Pacific,SGP,Singapore,Year,2011,False,12.4
+WPR,Western Pacific,JPN,Japan,Year,2011,False,12.41
+AFR,Africa,ZWE,Zimbabwe,Year,2011,False,12.53
+AMR,Americas,JAM,Jamaica,Year,2011,False,12.71
+EMR,Eastern Mediterranean,MAR,Morocco,Year,2011,False,12.79
+AMR,Americas,BRA,Brazil,Year,2011,False,12.88
+AFR,Africa,BWA,Botswana,Year,2011,False,13.42
+EUR,Europe,SMR,San Marino,Year,2011,False,13.44
+AFR,Africa,COM,Comoros,Year,2011,False,13.54
+EMR,Eastern Mediterranean,SOM,Somalia,Year,2011,False,13.73
+EUR,Europe,DEU,Germany,Year,2011,False,13.8
+AFR,Africa,ZAF,South Africa,Year,2011,False,14.08
+EUR,Europe,BEL,Belgium,Year,2011,False,14.26
+EUR,Europe,AUT,Austria,Year,2011,False,14.32
+EUR,Europe,NLD,Netherlands (Kingdom of the),Year,2011,False,14.36
+AFR,Africa,SWZ,Eswatini,Year,2011,False,14.43
+AFR,Africa,TZA,United Republic of Tanzania,Year,2011,False,14.52
+AMR,Americas,PAN,Panama,Year,2011,False,14.63
+EUR,Europe,UKR,Ukraine,Year,2011,False,14.95
+AMR,Americas,PRY,Paraguay,Year,2011,False,14.96
+EUR,Europe,MDA,Republic of Moldova,Year,2011,False,15.3
+AFR,Africa,MDG,Madagascar,Year,2011,False,15.33
+EUR,Europe,CYP,Cyprus,Year,2011,False,15.74
+AFR,Africa,MOZ,Mozambique,Year,2011,False,15.83
+EUR,Europe,BLR,Belarus,Year,2011,False,15.85
+AFR,Africa,SYC,Seychelles,Year,2011,False,16.11
+WPR,Western Pacific,MYS,Malaysia,Year,2011,False,16.55
+AFR,Africa,ZMB,Zambia,Year,2011,False,16.59
+AMR,Americas,COL,Colombia,Year,2011,False,16.7
+AMR,Americas,ECU,Ecuador,Year,2011,False,16.74
+WPR,Western Pacific,KHM,Cambodia,Year,2011,False,16.89
+EUR,Europe,GRC,Greece,Year,2011,False,17.05
+AFR,Africa,LSO,Lesotho,Year,2011,False,17.09
+EUR,Europe,ROU,Romania,Year,2011,False,17.39
+WPR,Western Pacific,IDN,Indonesia,Year,2011,False,17.53
+WPR,Western Pacific,VNM,Viet Nam,Year,2011,False,17.57
+EUR,Europe,ITA,Italy,Year,2011,False,17.72
+AMR,Americas,CRI,Costa Rica,Year,2011,False,17.94
+AFR,Africa,MWI,Malawi,Year,2011,False,18.49
+SEAR,South-East Asia,BTN,Bhutan,Year,2011,False,18.93
+SEAR,South-East Asia,TLS,Timor-Leste,Year,2011,False,19.08
+EUR,Europe,HUN,Hungary,Year,2011,False,19.22
+EMR,Eastern Mediterranean,DJI,Djibouti,Year,2011,False,19.29
+WPR,Western Pacific,PHL,Philippines,Year,2011,False,19.38
+EUR,Europe,CZE,Czechia,Year,2011,False,19.58
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,Year,2011,False,19.6
+EUR,Europe,SVN,Slovenia,Year,2011,False,19.63
+AMR,Americas,NIC,Nicaragua,Year,2011,False,20.19
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),Year,2011,False,20.21
+AMR,Americas,MEX,Mexico,Year,2011,False,20.22
+AFR,Africa,DZA,Algeria,Year,2011,False,20.68
+AMR,Americas,CHL,Chile,Year,2011,False,20.69
+AFR,Africa,ETH,Ethiopia,Year,2011,False,21.52
+EUR,Europe,ISR,Israel,Year,2011,False,21.63
+AFR,Africa,SSD,South Sudan,Year,2011,False,21.76
+EUR,Europe,HRV,Croatia,Year,2011,False,21.82
+AFR,Africa,GAB,Gabon,Year,2011,False,21.97
+EMR,Eastern Mediterranean,LBN,Lebanon,Year,2011,False,21.98
+EUR,Europe,SVK,Slovakia,Year,2011,False,22.06
+EMR,Eastern Mediterranean,SDN,Sudan,Year,2011,False,22.19
+SEAR,South-East Asia,LKA,Sri Lanka,Year,2011,False,22.27
+EUR,Europe,ALB,Albania,Year,2011,False,22.34
+AFR,Africa,ERI,Eritrea,Year,2011,False,22.47
+EUR,Europe,TUR,Türkiye,Year,2011,False,23.01
+AFR,Africa,COG,Congo,Year,2011,False,23.21
+EUR,Europe,BGR,Bulgaria,Year,2011,False,23.22
+EUR,Europe,GEO,Georgia,Year,2011,False,23.29
+EMR,Eastern Mediterranean,SYR,Syrian Arab Republic,Year,2011,False,23.35
+SEAR,South-East Asia,THA,Thailand,Year,2011,False,23.51
+EMR,Eastern Mediterranean,JOR,Jordan,Year,2011,False,23.54
+AFR,Africa,AGO,Angola,Year,2011,False,23.82
+EMR,Eastern Mediterranean,TUN,Tunisia,Year,2011,False,24.03
+AMR,Americas,HND,Honduras,Year,2011,False,24.29
+AFR,Africa,GNQ,Equatorial Guinea,Year,2011,False,24.69
+EUR,Europe,POL,Poland,Year,2011,False,24.71
+AMR,Americas,BOL,Bolivia (Plurinational State of),Year,2011,False,25.06
+EUR,Europe,MNE,Montenegro,Year,2011,False,25.11
+AMR,Americas,GTM,Guatemala,Year,2011,False,25.28
+AMR,Americas,SLV,El Salvador,Year,2011,False,26.26
+AFR,Africa,BDI,Burundi,Year,2011,False,26.27
+AMR,Americas,PER,Peru,Year,2011,False,26.3
+SEAR,South-East Asia,MMR,Myanmar,Year,2011,False,26.3
+EMR,Eastern Mediterranean,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2011,False,26.42
+EMR,Eastern Mediterranean,LBY,Libya,Year,2011,False,26.51
+AFR,Africa,CAF,Central African Republic,Year,2011,False,26.73
+WPR,Western Pacific,KOR,Republic of Korea,Year,2011,False,27.01
+AFR,Africa,CPV,Cabo Verde,Year,2011,False,27.39
+AFR,Africa,STP,Sao Tome and Principe,Year,2011,False,28.56
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),Year,2011,False,28.98
+AFR,Africa,COD,Democratic Republic of the Congo,Year,2011,False,29.21
+EUR,Europe,SRB,Serbia,Year,2011,False,29.45
+AFR,Africa,UGA,Uganda,Year,2011,False,29.81
+AFR,Africa,BEN,Benin,Year,2011,False,30.52
+AFR,Africa,LBR,Liberia,Year,2011,False,30.55
+EUR,Europe,KAZ,Kazakhstan,Year,2011,False,31.14
+AFR,Africa,GNB,Guinea-Bissau,Year,2011,False,31.5
+EUR,Europe,AZE,Azerbaijan,Year,2011,False,32.19
+EUR,Europe,MKD,North Macedonia,Year,2011,False,33.45
+EUR,Europe,BIH,Bosnia and Herzegovina,Year,2011,False,33.48
+AFR,Africa,GMB,Gambia,Year,2011,False,33.79
+AFR,Africa,TGO,Togo,Year,2011,False,34.2
+AFR,Africa,GIN,Guinea,Year,2011,False,34.3
+AFR,Africa,RWA,Rwanda,Year,2011,False,34.46
+AFR,Africa,SLE,Sierra Leone,Year,2011,False,34.71
+EUR,Europe,TKM,Turkmenistan,Year,2011,False,34.99
+EMR,Eastern Mediterranean,OMN,Oman,Year,2011,False,35.18
+AFR,Africa,MLI,Mali,Year,2011,False,35.19
+AFR,Africa,SEN,Senegal,Year,2011,False,35.19
+AFR,Africa,MRT,Mauritania,Year,2011,False,35.57
+EMR,Eastern Mediterranean,IRQ,Iraq,Year,2011,False,36.57
+AFR,Africa,CIV,Cote d'Ivoire,Year,2011,False,36.7
+SEAR,South-East Asia,NPL,Nepal,Year,2011,False,38.38
+AFR,Africa,BFA,Burkina Faso,Year,2011,False,38.47
+EUR,Europe,ARM,Armenia,Year,2011,False,38.72
+EMR,Eastern Mediterranean,YEM,Yemen,Year,2011,False,39.71
+AFR,Africa,TCD,Chad,Year,2011,False,39.9
+AMR,Americas,BHS,Bahamas,Year,2011,False,4.59
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,Year,2011,False,40.53
+AFR,Africa,GHA,Ghana,Year,2011,False,41.61
+SEAR,South-East Asia,BGD,Bangladesh,Year,2011,False,41.66
+WPR,Western Pacific,CHN,China,Year,2011,False,43.01
+EMR,Eastern Mediterranean,EGY,Egypt,Year,2011,False,44.05
+WPR,Western Pacific,MNG,Mongolia,Year,2011,False,46.65
+AFR,Africa,NER,Niger,Year,2011,False,48.15
+EUR,Europe,KGZ,Kyrgyzstan,Year,2011,False,48.78
+WPR,Western Pacific,NRU,Nauru,Year,2011,False,5.64
+SEAR,South-East Asia,IND,India,Year,2011,False,50.0
+EUR,Europe,UZB,Uzbekistan,Year,2011,False,51.22
+AFR,Africa,NGA,Nigeria,Year,2011,False,52.16
+AFR,Africa,CMR,Cameroon,Year,2011,False,52.33
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,Year,2011,False,52.74
+EMR,Eastern Mediterranean,PAK,Pakistan,Year,2011,False,53.35
+EMR,Eastern Mediterranean,BHR,Bahrain,Year,2011,False,54.03
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,Year,2011,False,55.7
+EMR,Eastern Mediterranean,KWT,Kuwait,Year,2011,False,56.24
+EMR,Eastern Mediterranean,QAT,Qatar,Year,2011,False,56.42
+AMR,Americas,CAN,Canada,Year,2011,False,6.23
+WPR,Western Pacific,NIU,Niue,Year,2011,False,6.34
+EUR,Europe,FIN,Finland,Year,2011,False,6.4
+AMR,Americas,DOM,Dominican Republic,Year,2011,False,6.6
+EUR,Europe,SWE,Sweden,Year,2011,False,6.91
+WPR,Western Pacific,TON,Tonga,Year,2011,False,6.93
+WPR,Western Pacific,FJI,Fiji,Year,2011,False,6.93
+WPR,Western Pacific,MHL,Marshall Islands,Year,2011,False,6.94
+WPR,Western Pacific,TUV,Tuvalu,Year,2011,False,6.95
+EMR,Eastern Mediterranean,AFG,Afghanistan,Year,2011,False,60.11
+EUR,Europe,TJK,Tajikistan,Year,2011,False,67.74
+EUR,Europe,EST,Estonia,Year,2011,False,7.01
+AMR,Americas,KNA,Saint Kitts and Nevis,Year,2011,False,7.15
+EUR,Europe,ISL,Iceland,Year,2011,False,7.15
+WPR,Western Pacific,AUS,Australia,Year,2011,False,7.18
+WPR,Western Pacific,SLB,Solomon Islands,Year,2011,False,7.22
+WPR,Western Pacific,WSM,Samoa,Year,2011,False,7.26
+WPR,Western Pacific,KIR,Kiribati,Year,2011,False,7.28
+WPR,Western Pacific,COK,Cook Islands,Year,2011,False,7.28
+WPR,Western Pacific,FSM,Micronesia (Federated States of),Year,2011,False,7.32
+AMR,Americas,DMA,Dominica,Year,2011,False,7.4
+WPR,Western Pacific,PLW,Palau,Year,2011,False,7.58
+AMR,Americas,ATG,Antigua and Barbuda,Year,2011,False,7.63
+WPR,Western Pacific,VUT,Vanuatu,Year,2011,False,8.04
+WPR,Western Pacific,NZL,New Zealand,Year,2011,False,8.17
+WPR,Western Pacific,PNG,Papua New Guinea,Year,2011,False,8.18
+WPR,Western Pacific,BRN,Brunei Darussalam,Year,2011,False,8.19
+AMR,Americas,VCT,Saint Vincent and the Grenadines,Year,2011,False,8.23
+AMR,Americas,LCA,Saint Lucia,Year,2011,False,8.29
+AMR,Americas,HTI,Haiti,Year,2011,False,8.45
+AMR,Americas,BRB,Barbados,Year,2011,False,8.53
+AMR,Americas,URY,Uruguay,Year,2011,False,8.98
+AMR,Americas,GRD,Grenada,Year,2011,False,9.01
+AMR,Americas,TTO,Trinidad and Tobago,Year,2011,False,9.21
+AMR,Americas,BLZ,Belize,Year,2011,False,9.79
+AFR,Africa,MUS,Mauritius,Year,2010,False,10.0
+AMR,Americas,SUR,Suriname,Year,2010,False,10.13
+EUR,Europe,RUS,Russian Federation,Year,2010,False,10.27
+AMR,Americas,HTI,Haiti,Year,2010,False,10.32
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2010,False,10.43
+AMR,Americas,GUY,Guyana,Year,2010,False,10.49
+EUR,Europe,AND,Andorra,Year,2010,False,10.53
+EUR,Europe,IRL,Ireland,Year,2010,False,10.53
+EUR,Europe,PRT,Portugal,Year,2010,False,10.55
+AMR,Americas,CUB,Cuba,Year,2010,False,10.73
+EUR,Europe,CHE,Switzerland,Year,2010,False,10.96
+EUR,Europe,DNK,Denmark,Year,2010,False,11.13
+EUR,Europe,ESP,Spain,Year,2010,False,11.2
+AFR,Africa,NAM,Namibia,Year,2010,False,11.2
+EUR,Europe,LUX,Luxembourg,Year,2010,False,11.78
+EUR,Europe,MCO,Monaco,Year,2010,False,11.91
+EUR,Europe,FRA,France,Year,2010,False,12.06
+AMR,Americas,ARG,Argentina,Year,2010,False,12.11
+AFR,Africa,KEN,Kenya,Year,2010,False,12.22
+EUR,Europe,MLT,Malta,Year,2010,False,12.36
+AFR,Africa,ZWE,Zimbabwe,Year,2010,False,12.55
+EUR,Europe,LTU,Lithuania,Year,2010,False,12.57
+WPR,Western Pacific,JPN,Japan,Year,2010,False,12.64
+WPR,Western Pacific,SGP,Singapore,Year,2010,False,12.7
+EMR,Eastern Mediterranean,MAR,Morocco,Year,2010,False,12.72
+AMR,Americas,BRA,Brazil,Year,2010,False,12.78
+SEAR,South-East Asia,MDV,Maldives,Year,2010,False,12.88
+EUR,Europe,SMR,San Marino,Year,2010,False,13.02
+EUR,Europe,LVA,Latvia,Year,2010,False,13.04
+AFR,Africa,COM,Comoros,Year,2010,False,13.4
+EUR,Europe,DEU,Germany,Year,2010,False,13.46
+AMR,Americas,JAM,Jamaica,Year,2010,False,13.53
+EMR,Eastern Mediterranean,SOM,Somalia,Year,2010,False,13.58
+EUR,Europe,NLD,Netherlands (Kingdom of the),Year,2010,False,13.86
+AFR,Africa,BWA,Botswana,Year,2010,False,13.93
+EUR,Europe,AUT,Austria,Year,2010,False,13.97
+AMR,Americas,PAN,Panama,Year,2010,False,14.04
+EUR,Europe,BEL,Belgium,Year,2010,False,14.07
+AFR,Africa,ZAF,South Africa,Year,2010,False,14.25
+AFR,Africa,TZA,United Republic of Tanzania,Year,2010,False,14.67
+AFR,Africa,SWZ,Eswatini,Year,2010,False,14.68
+AFR,Africa,MDG,Madagascar,Year,2010,False,15.38
+AMR,Americas,PRY,Paraguay,Year,2010,False,15.46
+EUR,Europe,UKR,Ukraine,Year,2010,False,16.1
+AFR,Africa,MOZ,Mozambique,Year,2010,False,16.19
+AMR,Americas,COL,Colombia,Year,2010,False,16.33
+AFR,Africa,ZMB,Zambia,Year,2010,False,16.41
+EUR,Europe,MDA,Republic of Moldova,Year,2010,False,16.44
+EUR,Europe,CYP,Cyprus,Year,2010,False,16.6
+EUR,Europe,ROU,Romania,Year,2010,False,16.8
+EUR,Europe,GRC,Greece,Year,2010,False,17.04
+AMR,Americas,ECU,Ecuador,Year,2010,False,17.09
+AFR,Africa,SYC,Seychelles,Year,2010,False,17.17
+AMR,Americas,CRI,Costa Rica,Year,2010,False,17.18
+EUR,Europe,ITA,Italy,Year,2010,False,17.18
+EUR,Europe,BLR,Belarus,Year,2010,False,17.43
+WPR,Western Pacific,MYS,Malaysia,Year,2010,False,17.79
+AFR,Africa,LSO,Lesotho,Year,2010,False,17.85
+AFR,Africa,MWI,Malawi,Year,2010,False,18.38
+WPR,Western Pacific,KHM,Cambodia,Year,2010,False,18.39
+EUR,Europe,HUN,Hungary,Year,2010,False,18.43
+EUR,Europe,SVN,Slovenia,Year,2010,False,18.79
+WPR,Western Pacific,IDN,Indonesia,Year,2010,False,18.97
+AMR,Americas,MEX,Mexico,Year,2010,False,19.0
+EUR,Europe,CZE,Czechia,Year,2010,False,19.03
+EMR,Eastern Mediterranean,DJI,Djibouti,Year,2010,False,19.05
+AMR,Americas,NIC,Nicaragua,Year,2010,False,19.14
+WPR,Western Pacific,VNM,Viet Nam,Year,2010,False,19.15
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),Year,2010,False,20.16
+SEAR,South-East Asia,BTN,Bhutan,Year,2010,False,20.19
+SEAR,South-East Asia,TLS,Timor-Leste,Year,2010,False,20.26
+AFR,Africa,DZA,Algeria,Year,2010,False,20.29
+AMR,Americas,CHL,Chile,Year,2010,False,20.38
+EUR,Europe,GEO,Georgia,Year,2010,False,20.55
+WPR,Western Pacific,PHL,Philippines,Year,2010,False,20.76
+EUR,Europe,HRV,Croatia,Year,2010,False,20.76
+EUR,Europe,SVK,Slovakia,Year,2010,False,21.1
+AFR,Africa,SSD,South Sudan,Year,2010,False,21.11
+EUR,Europe,ALB,Albania,Year,2010,False,21.38
+AFR,Africa,ETH,Ethiopia,Year,2010,False,21.39
+EMR,Eastern Mediterranean,SDN,Sudan,Year,2010,False,21.58
+EUR,Europe,ISR,Israel,Year,2010,False,21.8
+AFR,Africa,GAB,Gabon,Year,2010,False,21.89
+AMR,Americas,HND,Honduras,Year,2010,False,22.03
+AFR,Africa,ERI,Eritrea,Year,2010,False,22.17
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,Year,2010,False,22.24
+EMR,Eastern Mediterranean,LBN,Lebanon,Year,2010,False,22.41
+EUR,Europe,BGR,Bulgaria,Year,2010,False,22.83
+AFR,Africa,COG,Congo,Year,2010,False,23.12
+EUR,Europe,TUR,Türkiye,Year,2010,False,23.33
+EMR,Eastern Mediterranean,JOR,Jordan,Year,2010,False,23.47
+AFR,Africa,AGO,Angola,Year,2010,False,23.59
+EMR,Eastern Mediterranean,SYR,Syrian Arab Republic,Year,2010,False,23.76
+AMR,Americas,GTM,Guatemala,Year,2010,False,23.88
+SEAR,South-East Asia,LKA,Sri Lanka,Year,2010,False,23.95
+EUR,Europe,POL,Poland,Year,2010,False,23.99
+EUR,Europe,MNE,Montenegro,Year,2010,False,24.01
+AFR,Africa,GNQ,Equatorial Guinea,Year,2010,False,24.07
+AFR,Africa,CPV,Cabo Verde,Year,2010,False,24.79
+AMR,Americas,SLV,El Salvador,Year,2010,False,24.92
+EMR,Eastern Mediterranean,TUN,Tunisia,Year,2010,False,25.27
+SEAR,South-East Asia,THA,Thailand,Year,2010,False,25.82
+AFR,Africa,CAF,Central African Republic,Year,2010,False,26.24
+AFR,Africa,BDI,Burundi,Year,2010,False,26.45
+EMR,Eastern Mediterranean,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2010,False,26.69
+AMR,Americas,BOL,Bolivia (Plurinational State of),Year,2010,False,27.17
+AFR,Africa,STP,Sao Tome and Principe,Year,2010,False,27.36
+WPR,Western Pacific,KOR,Republic of Korea,Year,2010,False,27.42
+EUR,Europe,KAZ,Kazakhstan,Year,2010,False,27.45
+AMR,Americas,PER,Peru,Year,2010,False,27.68
+EUR,Europe,SRB,Serbia,Year,2010,False,28.22
+EUR,Europe,AZE,Azerbaijan,Year,2010,False,28.5
+EMR,Eastern Mediterranean,LBY,Libya,Year,2010,False,29.06
+SEAR,South-East Asia,MMR,Myanmar,Year,2010,False,29.2
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),Year,2010,False,29.29
+AFR,Africa,COD,Democratic Republic of the Congo,Year,2010,False,29.31
+AFR,Africa,UGA,Uganda,Year,2010,False,29.75
+AFR,Africa,BEN,Benin,Year,2010,False,29.96
+AFR,Africa,LBR,Liberia,Year,2010,False,30.08
+EUR,Europe,TKM,Turkmenistan,Year,2010,False,30.66
+AFR,Africa,GNB,Guinea-Bissau,Year,2010,False,31.27
+EUR,Europe,MKD,North Macedonia,Year,2010,False,31.75
+EUR,Europe,BIH,Bosnia and Herzegovina,Year,2010,False,31.97
+AFR,Africa,TGO,Togo,Year,2010,False,33.51
+AFR,Africa,SLE,Sierra Leone,Year,2010,False,33.7
+AFR,Africa,MRT,Mauritania,Year,2010,False,33.76
+AFR,Africa,GMB,Gambia,Year,2010,False,33.83
+AFR,Africa,RWA,Rwanda,Year,2010,False,34.09
+EUR,Europe,ARM,Armenia,Year,2010,False,34.11
+AFR,Africa,GIN,Guinea,Year,2010,False,34.32
+AFR,Africa,SEN,Senegal,Year,2010,False,34.51
+EMR,Eastern Mediterranean,OMN,Oman,Year,2010,False,34.72
+AFR,Africa,CIV,Cote d'Ivoire,Year,2010,False,35.47
+AFR,Africa,MLI,Mali,Year,2010,False,35.99
+EMR,Eastern Mediterranean,IRQ,Iraq,Year,2010,False,37.26
+EMR,Eastern Mediterranean,YEM,Yemen,Year,2010,False,37.57
+SEAR,South-East Asia,NPL,Nepal,Year,2010,False,38.72
+WPR,Western Pacific,CHN,China,Year,2010,False,39.34
+AFR,Africa,BFA,Burkina Faso,Year,2010,False,39.41
+AFR,Africa,TCD,Chad,Year,2010,False,39.43
+AMR,Americas,BHS,Bahamas,Year,2010,False,4.65
+AFR,Africa,GHA,Ghana,Year,2010,False,40.39
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,Year,2010,False,40.81
+WPR,Western Pacific,MNG,Mongolia,Year,2010,False,41.06
+SEAR,South-East Asia,BGD,Bangladesh,Year,2010,False,41.44
+EUR,Europe,KGZ,Kyrgyzstan,Year,2010,False,42.99
+EUR,Europe,UZB,Uzbekistan,Year,2010,False,45.06
+EMR,Eastern Mediterranean,EGY,Egypt,Year,2010,False,45.53
+AFR,Africa,NER,Niger,Year,2010,False,48.11
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,Year,2010,False,48.12
+WPR,Western Pacific,NRU,Nauru,Year,2010,False,5.57
+SEAR,South-East Asia,IND,India,Year,2010,False,50.11
+AFR,Africa,NGA,Nigeria,Year,2010,False,51.15
+AFR,Africa,CMR,Cameroon,Year,2010,False,51.68
+EMR,Eastern Mediterranean,PAK,Pakistan,Year,2010,False,54.39
+EMR,Eastern Mediterranean,BHR,Bahrain,Year,2010,False,54.97
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,Year,2010,False,55.27
+EMR,Eastern Mediterranean,KWT,Kuwait,Year,2010,False,56.62
+EMR,Eastern Mediterranean,QAT,Qatar,Year,2010,False,57.1
+EUR,Europe,TJK,Tajikistan,Year,2010,False,59.75
+AMR,Americas,CAN,Canada,Year,2010,False,6.15
+WPR,Western Pacific,NIU,Niue,Year,2010,False,6.44
+EUR,Europe,FIN,Finland,Year,2010,False,6.45
+EUR,Europe,ISL,Iceland,Year,2010,False,6.63
+EUR,Europe,SWE,Sweden,Year,2010,False,6.64
+WPR,Western Pacific,TUV,Tuvalu,Year,2010,False,6.76
+EMR,Eastern Mediterranean,AFG,Afghanistan,Year,2010,False,61.81
+WPR,Western Pacific,TON,Tonga,Year,2010,False,7.03
+AMR,Americas,DOM,Dominican Republic,Year,2010,False,7.04
+WPR,Western Pacific,FJI,Fiji,Year,2010,False,7.05
+WPR,Western Pacific,MHL,Marshall Islands,Year,2010,False,7.14
+WPR,Western Pacific,WSM,Samoa,Year,2010,False,7.2
+WPR,Western Pacific,PLW,Palau,Year,2010,False,7.2
+EUR,Europe,NOR,Norway,Year,2010,False,7.21
+WPR,Western Pacific,KIR,Kiribati,Year,2010,False,7.23
+WPR,Western Pacific,SLB,Solomon Islands,Year,2010,False,7.25
+WPR,Western Pacific,COK,Cook Islands,Year,2010,False,7.43
+WPR,Western Pacific,FSM,Micronesia (Federated States of),Year,2010,False,7.51
+AMR,Americas,KNA,Saint Kitts and Nevis,Year,2010,False,7.52
+AMR,Americas,DMA,Dominica,Year,2010,False,7.58
+EUR,Europe,EST,Estonia,Year,2010,False,7.76
+WPR,Western Pacific,VUT,Vanuatu,Year,2010,False,7.91
+WPR,Western Pacific,AUS,Australia,Year,2010,False,7.92
+AMR,Americas,ATG,Antigua and Barbuda,Year,2010,False,7.99
+AMR,Americas,USA,United States of America,Year,2010,False,8.11
+WPR,Western Pacific,BRN,Brunei Darussalam,Year,2010,False,8.14
+AMR,Americas,VCT,Saint Vincent and the Grenadines,Year,2010,False,8.33
+AMR,Americas,LCA,Saint Lucia,Year,2010,False,8.38
+WPR,Western Pacific,PNG,Papua New Guinea,Year,2010,False,8.55
+AMR,Americas,BRB,Barbados,Year,2010,False,8.62
+WPR,Western Pacific,NZL,New Zealand,Year,2010,False,8.91
+AMR,Americas,URY,Uruguay,Year,2010,False,8.98
+AMR,Americas,GRD,Grenada,Year,2010,False,9.16
+AMR,Americas,TTO,Trinidad and Tobago,Year,2010,False,9.55
+AMR,Americas,BLZ,Belize,Year,2010,False,9.84
